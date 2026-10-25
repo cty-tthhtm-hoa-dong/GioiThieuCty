@@ -1,17 +1,120 @@
-﻿<!DOCTYPE html>
+﻿ 
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sản phẩm | COMPANY</title>
+
+    <title>Sản phẩm | Bảo Hộ Việt</title>
+    <meta
+        name="description"
+        content="Danh mục thiết bị bảo hộ lao động, sản phẩm bảo vệ cá nhân và giải pháp an toàn lao động."
+    >
+
     <link rel="stylesheet" href="css/style.css">
     <script src="js/main.js" defer></script>
+    <script src="js/products.js" defer></script>
 </head>
-<body>
+
+<body data-page="products">
+    <!-- Thanh điều hướng được tải từ components/navbar.html -->
     <div id="navbar"></div>
-    <main>
-        <h1>Sản phẩm</h1>
-        <p>Danh sách sản phẩm của công ty sẽ được cập nhật tại đây.</p>
+
+    <main class="products-page">
+
+        <!-- Tiêu đề trang -->
+        <header class="products-header">
+            <p class="section-label">DANH MỤC SẢN PHẨM</p>
+
+            <h1>Thiết bị bảo hộ lao động</h1>
+
+            <p>
+                Khám phá các sản phẩm bảo hộ dành cho cá nhân,
+                doanh nghiệp, nhà máy và công trường.
+                Tìm kiếm hạng mục phù hợp với nhu cầu sử dụng của bạn.
+            </p>
+        </header>
+
+        <!-- Nội dung danh mục và sản phẩm -->
+        <section class="products-container">
+
+            <!-- Danh mục được tạo tự động từ categories.json -->
+            <section class="category-section" aria-labelledby="categoryHeading">
+                <div class="products-section-heading">
+                    <h2 id="categoryHeading">Hạng mục sản phẩm</h2>
+
+                    <p>
+                        Lựa chọn một hạng mục để xem các sản phẩm tương ứng.
+                    </p>
+                </div>
+
+                <div
+                    class="category-list"
+                    id="categoryList"
+                    aria-label="Lọc theo hạng mục"
+                >
+                    <p class="products-status">Đang tải hạng mục...</p>
+                </div>
+            </section>
+
+            <!-- Danh sách sản phẩm được tạo tự động từ products.json -->
+            <section class="product-list-section" aria-labelledby="productHeading">
+                <div class="product-toolbar">
+                    <div>
+                        <h2 id="currentCategoryTitle">Tất cả sản phẩm</h2>
+
+                        <p id="productCount" aria-live="polite">
+                            Đang tải dữ liệu...
+                        </p>
+                    </div>
+
+                    <label class="product-search">
+                        <span class="visually-hidden">Tìm kiếm sản phẩm</span>
+
+                        <input
+                            type="search"
+                            id="productSearch"
+                            placeholder="Tìm kiếm sản phẩm..."
+                            autocomplete="off"
+                        >
+                    </label>
+                </div>
+
+                <div
+                    class="product-grid"
+                    id="productGrid"
+                    aria-labelledby="productHeading"
+                >
+                    <p class="products-status">Đang tải sản phẩm...</p>
+                </div>
+            </section>
+
+        </section>
+
+        <!-- Khu vực liên hệ tư vấn -->
+        <section class="products-contact">
+            <div>
+                <p class="section-label">HỖ TRỢ KHÁCH HÀNG</p>
+
+                <h2>Chưa tìm thấy sản phẩm phù hợp?</h2>
+
+                <p>
+                    Liên hệ với chúng tôi để trao đổi về nhu cầu sử dụng
+                    và nhận tư vấn về các thiết bị bảo hộ lao động.
+                </p>
+            </div>
+
+            <a href="contact.html" class="products-contact-button">
+                Liên hệ tư vấn →
+            </a>
+        </section>
+
     </main>
+
+    <footer>
+        <strong>BẢO HỘ VIỆT</strong>
+        <span>Thiết bị bảo hộ lao động</span>
+        <span>© 2026 Bảo Hộ Việt</span>
+    </footer>
 </body>
 </html>

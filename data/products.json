@@ -1,0 +1,29 @@
+﻿[
+    {
+        "id": "helmet-001",
+        "name": "Mũ bảo hộ lao động",
+        "categoryId": "helmets",
+        "description": "Mũ bảo hộ dành cho môi trường lao động.",
+        "image": "images/products/helmet-001.jpg",
+        "price": "",
+        "featured": true
+    },
+    {
+        "id": "shoe-001",
+        "name": "Giày bảo hộ lao động",
+        "categoryId": "safety-shoes",
+        "description": "Giày bảo hộ dành cho nhà máy và công trường.",
+        "image": "images/products/shoe-001.jpg",
+        "price": "",
+        "featured": true
+    },
+    {
+        "id": "glove-001",
+        "name": "Găng tay bảo hộ",
+        "categoryId": "gloves",
+        "description": "Găng tay phục vụ nhu cầu bảo vệ bàn tay.",
+        "image": "images/products/glove-001.jpg",
+        "price": "",
+        "featured": false
+    }
+]

@@ -1,0 +1,27 @@
+﻿[
+    {
+        "id": "helmets",
+        "name": "Mũ bảo hộ",
+        "description": "Thiết bị bảo vệ vùng đầu."
+    },
+    {
+        "id": "safety-shoes",
+        "name": "Giày bảo hộ",
+        "description": "Thiết bị bảo vệ bàn chân."
+    },
+    {
+        "id": "gloves",
+        "name": "Găng tay bảo hộ",
+        "description": "Thiết bị bảo vệ bàn tay."
+    },
+    {
+        "id": "protective-clothing",
+        "name": "Quần áo bảo hộ",
+        "description": "Trang phục bảo hộ lao động."
+    },
+    {
+        "id": "safety-glasses",
+        "name": "Kính bảo hộ",
+        "description": "Thiết bị bảo vệ mắt."
+    }
+]
