@@ -1,28 +1,419 @@
 ﻿[
     {
-        "id": "helmet-001",
-        "name": "Mũ bảo hộ lao động",
-        "categoryId": "helmets",
-        "description": "Mũ bảo hộ dành cho môi trường lao động.",
-        "image": "images/products/helmet-001.jpg",
+        "id": "pin-gauge-set",
+        "name": "Thước đo gen (Bộ chốt đo chuẩn)",
+        "nameEn": "Pin Gauge Set / Plug Gauge Set",
+        "nameZh": "针规 / 塞规",
+        "categoryId": "measuring-tools",
+        "description": "Kiểm tra đường kính lỗ với độ chính xác rất cao (sai số khoảng ±0.001 mm), kiểm tra Go/No-Go và làm chuẩn hiệu chuẩn thiết bị đo.",
+        "features": [
+            "Đo đường kính lỗ chính xác: Dùng để kiểm tra và đo kích thước đường kính trong của các lỗ cơ khí với độ chính xác rất cao (sai số cực nhỏ, khoảng ±0.001 mm).",
+            "Kiểm tra lỗ ren & bước ren: Dùng kết hợp để kiểm tra kích thước đường kính đáy ren, độ sâu lỗ ren hoặc kiểm tra nhanh giới hạn Go/No-Go cho lỗ ren/lỗ khoan.",
+            "Đo khoảng cách tâm lỗ: Dùng làm mốc chuẩn để đo khoảng cách giữa hai tâm lỗ hoặc vị trí lỗ trên chi tiết gia công.",
+            "Làm chuẩn hiệu chuẩn thiết bị: Dùng làm vật chuẩn để kiểm tra, hiệu chuẩn lại các thiết bị đo khác như thước kẹp (panme), kính đo quang học, máy đo 2D/3D."
+        ],
+        "featuresEn": [
+            "High-Precision Hole Measurement: Used for inspecting and measuring the internal diameter of holes with extremely high precision (tolerance around ±0.001 mm).",
+            "Thread & Hole Inspection: Acts as a standard reference to check thread root diameter, hole depth, or perform quick Go/No-Go pass/fail inspection.",
+            "Center-to-Center Distance Measurement: Used as reference pins to measure the distance between hole centers and geometry alignment.",
+            "Calibration Standard: Serves as a precise reference standard for calibrating calipers, micrometers, optical measuring machines, and 2D/3D vision system instruments."
+        ],
+        "image": "images/products/pin-gauge-set.jpg",
         "price": "",
-        "featured": true
+        "featured": false
     },
     {
-        "id": "shoe-001",
-        "name": "Giày bảo hộ lao động",
-        "categoryId": "safety-shoes",
-        "description": "Giày bảo hộ dành cho nhà máy và công trường.",
-        "image": "images/products/shoe-001.jpg",
+        "id": "victor-vc890d-multimeter",
+        "name": "Đồng hồ vạn năng kỹ thuật số VICTOR VC890D",
+        "nameEn": "VICTOR VC890D Digital Multimeter",
+        "nameZh": "VICTOR VC890D 数字多用表",
+        "categoryId": "measuring-tools",
+        "description": "Đo điện áp, dòng điện AC/DC, điện trở, điện dung, tần số và nhiệt độ; có True RMS, phát hiện điện áp không tiếp xúc (NCV) và Data Hold.",
+        "features": [
+            "Công dụng: Dụng cụ đo lường điện chuyên dụng cho kỹ thuật viên điện tử, thợ điện và người sửa chữa thiết bị.",
+            "Đo điện áp AC/DC, dòng điện AC/DC.",
+            "Đo điện trở, điện dung tụ điện, tần số và nhiệt độ.",
+            "Kiểm tra thông mạch (có còi báo), kiểm tra Diode và transistor (hFE).",
+            "Tính năng thông minh: Phát hiện điện áp không tiếp xúc (NCV), đo giá trị thực True RMS, giữ kết quả (Data Hold) và tự động tắt nguồn."
+        ],
+        "featuresEn": [
+            "Main Application: Essential electrical measuring tool for electronics technicians, electricians, and repairmen.",
+            "Measure AC/DC voltage and AC/DC current.",
+            "Measure resistance, capacitance, frequency, and temperature.",
+            "Continuity test (with buzzer), Diode test, and hFE transistor test.",
+            "Advanced features: NCV detection, True RMS measurement, Data Hold, and Auto Power Off."
+        ],
+        "image": "images/products/victor-vc890d-multimeter.jpg",
         "price": "",
-        "featured": true
+        "featured": false
     },
     {
-        "id": "glove-001",
-        "name": "Găng tay bảo hộ",
-        "categoryId": "gloves",
-        "description": "Găng tay phục vụ nhu cầu bảo vệ bàn tay.",
-        "image": "images/products/glove-001.jpg",
+        "id": "wire-tracker-cable-tester",
+        "name": "Máy dò dây cáp mạng / Thiết bị kiểm tra dây cáp",
+        "nameEn": "Multipurpose Wire Tracker / Cable Tester",
+        "nameZh": "精明鼠 多用途通信网络查线器",
+        "categoryId": "measuring-tools",
+        "description": "Dò tìm, truy vết dây cáp mạng RJ45 và điện thoại RJ11; phát hiện hở mạch, đoản mạch, chéo dây. Có đèn LED và giắc tai nghe.",
+        "features": [
+            "Dò dây: Dễ dàng định vị và truy vết các loại dây cáp (RJ45, RJ11) trong một bó dây phức tạp hoặc trong tường, tủ cáp.",
+            "Kiểm tra lỗi đấu dây: Xác định các lỗi phổ biến như hở mạch, đoản mạch, chéo dây, hoặc đấu sai thứ tự trong cáp mạng (RJ45) và cáp điện thoại (RJ11).",
+            "Hỗ trợ làm việc trong bóng tối: Được trang bị đèn LED siêu sáng trên bộ thu (Receiver) để chiếu sáng khi làm việc trong điều kiện thiếu ánh sáng.",
+            "Chỉnh âm lượng và kết nối tai nghe: Hỗ trợ điều chỉnh âm lượng cảnh báo và giắc cắm tai nghe để hoạt động ở những môi trường ồn ào mà không gây ảnh hưởng."
+        ],
+        "featuresEn": [
+            "Wire Tracing: Effortlessly locate and trace various cable types (RJ45, RJ11) within complex bundles, walls, or patch panels.",
+            "Wiring Fault Test: Quickly diagnose common wiring issues such as open circuits, short circuits, cross-wiring, and miswiring in ethernet (RJ45) and telephone (RJ11) cables.",
+            "LED Flashlight: The receiver unit features a bright LED light, making it convenient to use in dark or low-light environments.",
+            "Volume Control & Earphone Support: Allows for adjustable alert volume and includes an earphone jack for stealth operation in noisy surroundings."
+        ],
+        "image": "images/products/wire-tracker-cable-tester.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "precision-shaft-level-200mm",
+        "name": "Máy cân bằng trục 200mm (Thủy chuẩn cơ khí chính xác)",
+        "nameEn": "200mm Precision Shaft Level / Machinery Level",
+        "nameZh": "200mm 精密轴水平仪",
+        "categoryId": "measuring-tools",
+        "description": "Đo độ phẳng, độ nghiêng của bề mặt máy và trục máy; độ chia 0.02mm/m, đế rãnh chữ V chuyên dùng cho bề mặt trụ tròn.",
+        "features": [
+            "Kiểm tra độ phẳng và độ thăng bằng: Đo lường chính xác độ lệch phẳng, độ nghiêng của bề mặt máy móc, trục máy hoặc các mặt phẳng kỹ thuật trong ngành cơ khí chính xác.",
+            "Độ chính xác cực cao: Trang bị ống thủy chuẩn siêu nhạy với độ chia nhỏ đạt 0.02mm/m, giúp phát hiện những sai số nhỏ nhất.",
+            "Thiết kế V-groove chuyên dụng: Phần đế thiết kế rãnh chữ V (V-groove) hỗ trợ tối ưu khi đo kiểm trên các bề mặt hình trụ hoặc trục tròn.",
+            "Ứng dụng rộng rãi: Là giải pháp hoàn hảo cho ngành cơ khí chế tạo, xưởng gia công lắp ráp, căn chỉnh máy tiện, máy phay và các thiết bị công nghiệp nặng."
+        ],
+        "featuresEn": [
+            "Levelness & Flatness Testing: Accurately measures the surface deviation and inclination of machinery components, shafts, and precision engineering planes.",
+            "Ultra-High Precision: Equipped with a highly sensitive bubble vial featuring a graduation of 0.02mm/m, detecting even the smallest errors.",
+            "V-Groove Base Design: Features a specialized V-groove base optimized for measuring and aligning cylindrical surfaces or round shafts.",
+            "Wide Applications: An essential solution for mechanical manufacturing, assembly workshops, and aligning lathes, milling machines, and heavy industrial equipment."
+        ],
+        "image": "images/products/precision-shaft-level-200mm.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "abrasive-flap-disc",
+        "name": "Đá nhám xếp / Đĩa nhám xếp (Chén nhám xếp)",
+        "nameEn": "Abrasive Flap Disc / Flap Disc Grinding Wheel",
+        "nameZh": "千叶轮 / 砂布千页轮",
+        "categoryId": "machining-tools",
+        "description": "Mài bavia, làm phẳng mối hàn, làm sạch rỉ sét và sơn cũ trên sắt, thép, inox, nhôm. Tản nhiệt tốt, ít rung, tuổi thọ cao.",
+        "features": [
+            "Mài mòn và làm phẳng: Chuyên dùng để mài bavia, làm phẳng các mối hàn, loại bỏ vết xước và làm nhẵn bề mặt kim loại (sắt, thép, inox, nhôm).",
+            "Làm sạch bề mặt: Loại bỏ hiệu quả lớp rỉ sét, cặn bẩn, lớp sơn cũ hoặc lớp phủ bám trên vật liệu trước khi gia công tiếp hoặc sơn phủ.",
+            "Hiệu suất cắt mạnh mẽ & Tản nhiệt tốt: Cấu trúc các lớp vải nhám xếp hình cánh quạt giúp tản nhiệt nhanh trong quá trình mài, hạn chế tối đa tình trạng cháy bề mặt vật liệu.",
+            "Tuổi thọ cao và tiết kiệm: Khi lớp nhám ngoài mòn đi, lớp nhám mới bên trong sẽ liên tục lộ ra, giúp duy trì hiệu suất ổn định và kéo dài thời gian sử dụng.",
+            "Vận hành êm ái: Giảm thiểu độ rung và tiếng ồn so với đá mài cứng truyền thống, mang lại đường mài mịn màng và thẩm mỹ hơn."
+        ],
+        "featuresEn": [
+            "Grinding & Smoothing: Specially designed for deburring, smoothing weld seams, removing surface scratches, and leveling metal surfaces (iron, steel, stainless steel, aluminum).",
+            "Surface Cleaning: Effectively removes rust, dirt, old paint, or coatings from materials before further processing or finishing.",
+            "High Cutting Efficiency & Heat Dissipation: The overlapping fan-like abrasive flaps provide excellent heat dissipation during grinding, preventing material scorching.",
+            "Long Service Life & Cost-Effective: As outer abrasive layers wear down, fresh abrasive layers continuously expose themselves, ensuring consistent performance and extended tool life.",
+            "Smooth Operation: Reduces vibration and noise compared to traditional hard grinding wheels, delivering a cleaner and more refined finish."
+        ],
+        "image": "images/products/abrasive-flap-disc.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "chint-dz47-60-mcb",
+        "name": "Aptomat CHINT DZ47-60 (Cầu dao tự động dạng tép MCB)",
+        "nameEn": "Miniature Circuit Breaker (MCB) / CHINT DZ47-60 Series",
+        "nameZh": "微型断路器 / 正泰微型断路器",
+        "categoryId": "electrical-equipment",
+        "description": "Tự động ngắt mạch khi quá tải hoặc ngắn mạch; dùng làm công tắc tổng hoặc nhánh để cô lập nguồn khi bảo trì. Dòng cắt tiêu chuẩn 6kA.",
+        "features": [
+            "Bảo vệ quá tải: Tự động ngắt mạch điện khi dòng điện vượt quá mức định mức cho phép, giúp ngăn ngừa tình trạng quá nhiệt dây dẫn và nguy cơ cháy nổ.",
+            "Bảo vệ ngắn mạch (chập điện): Phát hiện nhanh chóng và ngắt ngay lập tức dòng điện khi xảy ra sự cố chập mạch, bảo vệ toàn diện hệ thống điện và các thiết bị trong gia đình.",
+            "Đóng/ngắt mạch điện an toàn: Đóng vai trò là công tắc tổng hoặc nhánh để kiểm soát, cô lập nguồn điện thủ công khi cần sửa chữa, bảo trì hệ thống điện.",
+            "Độ bền và độ ổn định cao: Thiết kế dòng cắt tiêu chuẩn (ví dụ 6kA), đảm bảo khả năng ngắt mạch tin cậy trong các điều kiện vận hành dân dụng và công nghiệp nhẹ."
+        ],
+        "featuresEn": [
+            "Overload Protection: Automatically cuts off the electrical circuit when the load current exceeds the rated threshold, preventing wire overheating and fire hazards.",
+            "Short-Circuit Protection: Instantly detects and interrupts fault currents during short-circuit events, providing comprehensive protection for electrical systems and home appliances.",
+            "Safe Circuit Switching: Functions as a main or branch switch to manually control, isolate, or disconnect power supplies during electrical maintenance and repairs.",
+            "High Durability & Reliability: Engineered with standard breaking capacity (e.g., 6kA), ensuring reliable circuit interruption under residential and light commercial operating conditions."
+        ],
+        "image": "images/products/chint-dz47-60-mcb.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "tes-1332a-lux-meter",
+        "name": "Máy đo ánh sáng kỹ thuật số TES-1332A",
+        "nameEn": "Digital Lux Meter / Illuminance Meter TES-1332A",
+        "nameZh": "照度计 / 数字照度计 TES-1332A",
+        "categoryId": "measuring-tools",
+        "description": "Đo cường độ chiếu sáng (Lux/FC) cho văn phòng, nhà xưởng, trường học, bệnh viện; cảm biến rời dây xoắn, chức năng HOLD, nhiều thang đo.",
+        "features": [
+            "Đo cường độ ánh sáng chính xác: Dùng để đo mức độ chiếu sáng (Lux/FC) tại các môi trường như văn phòng, nhà xưởng, trường học, bệnh viện, phòng nghiên cứu và studio chụp ảnh.",
+            "Cảm biến rời tiện lợi: Cảm biến quang học nối liền với dây xoắn cho phép người dùng linh hoạt di chuyển đầu đo đến các góc khuất hoặc vị trí cần kiểm tra mà không làm cản trở góc nhìn màn hình.",
+            "Chức năng giữ giá trị (HOLD): Cho phép khóa dữ liệu hiển thị trên màn hình LCD giúp việc đọc và ghi chép kết quả dễ dàng hơn.",
+            "Tùy chỉnh dải đo rộng: Hỗ trợ chuyển đổi nhiều thang đo cường độ ánh sáng khác nhau để phù hợp với cả môi trường ánh sáng yếu lẫn ánh sáng cường độ cao.",
+            "Thiết kế gọn nhẹ & Bảo vệ tối ưu: Đi kèm hộp đựng cứng chuyên dụng, giúp bảo vệ thiết bị và cảm biến an toàn khi di chuyển ngoài hiện trường."
+        ],
+        "featuresEn": [
+            "Accurate Light Intensity Measurement: Designed to measure illuminance levels (Lux/FC) in various environments such as offices, factories, schools, hospitals, laboratories, and photography studios.",
+            "Flexible External Sensor: Equipped with a remote photo-sensor connected via a coiled cable, allowing users to measure light at hard-to-reach angles without obstructing the display screen.",
+            "Data Hold Function (HOLD): Allows users to freeze the current reading on the LCD screen for convenient recording and analysis.",
+            "Wide Measuring Range: Features adjustable measurement ranges to accommodate both low-light conditions and high-intensity illumination.",
+            "Portable & Protective Design: Comes with a heavy-duty carrying case, ensuring maximum protection for the main unit and sensor during field testing and transport."
+        ],
+        "image": "images/products/tes-1332a-lux-meter.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "superfire-g20-flashlight",
+        "name": "Đèn pin siêu sáng đa năng SUPERFIRE G20",
+        "nameEn": "SUPERFIRE G20 Rechargeable LED Flashlight / Work Light",
+        "nameZh": "神火多功能强光手电筒 / SUPERFIRE G20 手电筒",
+        "categoryId": "industrial-supplies",
+        "description": "Đèn pin LED nhiều chế độ (sáng mạnh, vừa, SOS, COB), sạc USB/Type-C kiêm sạc dự phòng, đế nam châm, vỏ nhôm chống nước IPX.",
+        "features": [
+            "Chiếu sáng đa chế độ: Trang bị bóng LED siêu sáng với nhiều chế độ chiếu sáng (sáng mạnh, sáng vừa, nhấp nháy/SOS, đèn COB diện rộng), đáp ứng đa dạng nhu cầu từ tuần tra, làm việc đêm đến cắm trại, dã ngoại.",
+            "Cổng sạc USB tiện lợi & Cung cấp nguồn dự phòng: Hỗ trợ sạc nhanh qua cổng USB/Type-C và có thể sử dụng làm nguồn sạc dự phòng cho điện thoại trong các tình huống khẩn cấp.",
+            "Đế từ tính & Móc treo linh hoạt: Phần chân đế tích hợp nam châm lực hút mạnh giúp gắn chặt lên các bề mặt kim loại (sửa chữa ô tô, máy móc, tủ điện), giúp giải phóng hai tay khi làm việc.",
+            "Thiết kế chống nước & Kháng va đập: Vỏ máy làm từ hợp kim nhôm siêu bền, khả năng chống nước chuẩn IPX và chịu va đập tốt trong môi trường khắc nghiệt."
+        ],
+        "featuresEn": [
+            "Multi-Mode Illumination: Equipped with high-power LEDs offering multiple lighting modes (High, Medium, Strobe/SOS, and COB floodlight) for work, inspection, camping, and emergencies.",
+            "Rechargeable & Power Bank Function: Features USB/Type-C fast charging and can function as an emergency power bank to charge mobile devices on the go.",
+            "Hands-Free Magnetic Base & Hook: Integrated strong magnetic base attaches firmly to metal surfaces (auto repair, machinery inspection, electrical panels), enabling completely hands-free operation.",
+            "Waterproof & Impact Resistant: Built with a durable aluminum alloy body, offering IPX water resistance and rugged shock resistance for harsh job site environments."
+        ],
+        "image": "images/products/superfire-g20-flashlight.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "duct-tape-aluminum-foil-tape",
+        "name": "Băng keo vải chịu lực & Băng keo nhôm cách nhiệt",
+        "nameEn": "Heavy-Duty Cloth Duct Tape & Aluminum Foil Tape",
+        "nameZh": "管道布基胶带 / 铝箔胶带",
+        "categoryId": "industrial-supplies",
+        "description": "Băng keo vải gia cố, đóng gói, sửa chữa nhanh; băng keo nhôm chịu nhiệt, bịt kín ống gió HVAC. Bám dính tốt trên kim loại, nhựa, gỗ, bê tông.",
+        "features": [
+            "Dán dính chịu lực & Gia cố mối nối: Băng keo vải có độ bền kéo cao, dùng để gia cố, đóng gói hàng hóa nặng, quấn bọc bảo vệ ống dẫn và sửa chữa tạm thời các bề mặt hư hỏng.",
+            "Cách nhiệt & Bịt kín mối nối ống gió: Băng keo nhôm có khả năng chịu nhiệt, chống cháy và chống phản xạ nhiệt, chuyên dùng trong hệ thống điều hòa không khí (HVAC), dán bảo vệ đường ống hơi và cách nhiệt công nghiệp.",
+            "Chống thấm nước & Chống ăn mòn: Độ bám dính cực cao trên nhiều bề mặt (kim loại, nhựa, gỗ, bê tông), giúp chống rò rỉ nước, chống ẩm mốc và bảo vệ chi tiết khỏi tác động môi trường.",
+            "Linh hoạt & Dễ sử dụng: Có thể xé rách bằng tay đối với băng keo vải hoặc cắt dễ dàng, ôm sát các góc cạnh phức tạp của thiết bị và công trình."
+        ],
+        "featuresEn": [
+            "Heavy-Duty Bonding & Reinforcement: Cloth duct tape offers high tensile strength, ideal for bundling heavy items, sealing ducts, and performing quick, durable surface repairs.",
+            "Thermal Insulation & HVAC Sealing: Premium aluminum foil tape provides flame resistance, heat reflection, and moisture barriers, specifically designed for HVAC ductwork sealing and thermal insulation.",
+            "Waterproof & Weather-Resistant Seal: Features an aggressive adhesive that bonds strongly to metal, plastic, wood, and concrete, preventing water leaks and corrosion.",
+            "High Flexibility & Easy Application: Easily conformable to irregular surfaces and contours, providing a seamless protective barrier for industrial equipment and structures."
+        ],
+        "image": "images/products/duct-tape-aluminum-foil-tape.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "uva-irradiance-meter",
+        "name": "Máy đo cường độ tia tử ngoại UV-A",
+        "nameEn": "UV-A Ultraviolet Irradiance Meter / UV-A Light Meter",
+        "nameZh": "UV-A 紫外辐射计",
+        "categoryId": "measuring-tools",
+        "description": "Đo cường độ bức xạ UV-A (315–400nm) để kiểm tra đèn sấy UV, đèn tiệt trùng, thiết bị soi khuyết tật NDT; đầu dò rời, kèm hộp chống xóc.",
+        "features": [
+            "Đo chính xác bức xạ tia UV-A: Chuyên dùng để đo cường độ bức xạ của nguồn sáng tử ngoại trong dải sóng A (315nm – 400nm), ứng dụng rộng rãi trong kiểm tra công nghiệp, phòng thí nghiệm, y tế và y khoa thẩm mỹ.",
+            "Cảm biến đầu dò tách rời tiện lợi: Cảm biến quang học kết nối qua dây cáp linh hoạt, giúp dễ dàng định vị đầu đo tại các khu vực hẹp hoặc dưới trực tiếp nguồn sáng mà vẫn quan sát màn hình hiển thị thuận tiện.",
+            "Kiểm tra & Bảo dưỡng thiết bị quang học: Sử dụng để đánh giá hiệu suất, mức độ suy giảm quang năng của các đèn sấy UV, đèn tiệt trùng, thiết bị soi khuyết tật kim loại (NDT) và hệ thống chiếu sáng chuyên dụng.",
+            "Hộp đựng bảo vệ chuyên dụng: Toàn bộ thiết bị và phụ kiện được sắp xếp gọn gàng trong hộp chống xóc, đảm bảo an toàn tuyệt đối cho cảm biến khi di chuyển ngoài hiện trường."
+        ],
+        "featuresEn": [
+            "Accurate UV-A Radiation Measurement: Specifically designed to measure the irradiance intensity of ultraviolet light sources in the UV-A spectrum (315nm – 400nm), widely used in industrial inspection, laboratories, medical, and curing applications.",
+            "Flexible External Probe: Features a detachable optical sensor connected via cable, allowing effortless positioning under light sources or in confined spaces while keeping the display easily readable.",
+            "Equipment Quality Control: Ideal for monitoring and evaluating the output efficiency and degradation of UV curing lamps, sterilization equipment, NDT flaw detectors, and specialized UV light systems.",
+            "Protective & Portable Case: Comes with a custom fitted heavy-duty carrying case to protect sensitive optical components and accessories during transport and field work."
+        ],
+        "image": "images/products/uva-irradiance-meter.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "fiberglass-tape-measure-20m",
+        "name": "Thước dây sợi thủy tinh 20m (Thước cuộn vải đo khoảng cách)",
+        "nameEn": "Angda 20m/66ft Fiberglass Tape Measure",
+        "nameZh": "昂达 高质量麻布尺 / 纤维皮尺 (20m / 66ft)",
+        "categoryId": "measuring-tools",
+        "description": "Đo chiều dài, khoảng cách tới 20m (66ft), hiển thị cả hệ mét và feet/inch. Dây sợi thủy tinh chống co dãn, chống nước, không dẫn điện.",
+        "features": [
+            "Chức năng chính: Đo đạc chiều dài, khoảng cách lớn trong công trình xây dựng, khảo sát đất đai, thiết kế nội thất hoặc công việc xưởng/gia đình.",
+            "Phạm vi đo: Tối đa 20 mét (tương đương 66 feet), hiển thị song song hai hệ đo Metric (mét) và Imperial (feet/inch).",
+            "Chống co dãn (Anti-stretch): Dây sợi thủy tinh chống co dãn, chống gãy gập, giữ độ chính xác lâu dài.",
+            "Chống nước & ăn mòn (Waterproof & Anti-corrosion): Không gỉ sét, chống ẩm mốc và mài mòn tốt hơn thước thép.",
+            "An toàn điện (Electrical Safety): Sợi thủy tinh không dẫn điện, an toàn khi làm việc gần nguồn điện.",
+            "Cơ chế hoạt động: Vỏ nhựa ABS chịu lực chống va đập, tích hợp tay quay xếp gọn giúp thu dây nhanh chóng."
+        ],
+        "image": "images/products/fiberglass-tape-measure-20m.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "explosion-proof-socket",
+        "name": "Hộp ổ cắm chống cháy nổ (Ổ cắm công nghiệp phòng nổ Ex)",
+        "nameEn": "Explosion-Proof Industrial Socket / Flameproof Receptacle Box (Ex Certified)",
+        "nameZh": "防爆插座 / 防爆墙壁插座 / 防爆插销",
+        "categoryId": "electrical-equipment",
+        "description": "Cấp nguồn an toàn cho thiết bị trong môi trường có khí gas, hóa chất, bụi dễ cháy. Vỏ nhôm đúc nguyên khối chuẩn Ex, nắp khóa xoay IP65/IP66.",
+        "features": [
+            "Chức năng chính: Dùng để cấp nguồn điện an toàn cho các thiết bị công nghiệp hoạt động trong các môi trường nguy hiểm có nguy cơ cháy nổ cao (khí gas, hóa chất, bụi dễ cháy).",
+            "Môi trường ứng dụng: Nhà máy hóa chất, xưởng pha sơn, trạm xăng dầu, giàn khoan dầu khí, kho chứa vật liệu cháy nổ, mỏ than, nhà máy chế biến thực phẩm có bụi mịn.",
+            "Ký hiệu Ex (Explosion-Proof): Đạt tiêu chuẩn phòng chống cháy nổ quốc tế, vỏ nhôm đúc nguyên khối chịu áp lực cực cao và ngăn tia lửa điện bên trong thoát ra ngoài môi trường.",
+            "Cơ chế khóa an toàn: Thiết kế nắp đậy xoay khóa chặt, chống xâm nhập nước, bụi bẩn (tiêu chuẩn IP65/IP66).",
+            "Cảnh báo trên mặt nắp: 严禁带电开盖 (Nghiêm cấm mở nắp khi đang có điện) / 注意:严禁带电拔插! (Chú ý: Nghiêm cấm rút/cắm khi đang có điện!)"
+        ],
+        "image": "images/products/explosion-proof-socket.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "paint-brush-4-inch",
+        "name": "Chổi quét sơn cán gỗ 4 inch (100mm) – Cọ sơn hiệu Cây Dừa",
+        "nameEn": "Coconut Tree Brand 4-inch Professional Paint Brush (Natural Hog Bristle Wood Handle)",
+        "nameZh": "椰树牌 专业用油漆刷 / 猪鬃毛刷 (100mm / 4寸)",
+        "categoryId": "industrial-supplies",
+        "description": "Cọ sơn lông heo tự nhiên, cán gỗ, bản 100mm; giữ sơn tốt, ít rụng lông. Dùng cho sơn dầu, sơn nước, vecni trên gỗ, kim loại, tường nhà.",
+        "specs": [
+            { "label": "Thương hiệu", "value": "Coconut Tree Brand (椰树牌 - Thương hiệu Cây Dừa)" },
+            { "label": "Nhà sản xuất", "value": "Nhà máy cọ Nam Thảo, Quảng Châu (广州市南草毛刷厂)" },
+            { "label": "Xuất xứ", "value": "Quảng Châu, Trung Quốc (Guangzhou, China)" },
+            { "label": "Chất liệu", "value": "Sợi lông heo tự nhiên (Natural Hog Bristles) cao cấp, cán bằng gỗ tự nhiên nhẹ và chắc chắn" },
+            { "label": "Phân loại", "value": "Chổi quét sơn chuyên dụng 4-inch (100mm)" }
+        ],
+        "features": [
+            "Ứng dụng đa năng: Chuyên dùng để thi công sơn dầu, sơn nước, vecni hoặc sơn chống thấm lên các bề mặt gỗ, kim loại, tường nhà.",
+            "Phù hợp cho cả công trình xây dựng lớn, xưởng mộc/cơ khí lẫn công việc tự sửa chữa (DIY) tại nhà; cũng có thể dùng làm chổi quét bụi, vệ sinh máy móc, thiết bị công nghiệp.",
+            "Độ bám và giữ sơn tối ưu: Lông heo tự nhiên có độ đàn hồi tốt, giữ lượng sơn nhiều và đều, giúp đường sơn mịn, ít để lại vệt chổi và tiết kiệm thời gian thi công.",
+            "Chống rụng lông hiệu quả: Phần lông được cố định chắc chắn bằng keo chuyên dụng và bọc đai kim loại (ferrule) ép chặt, hạn chế tối đa việc rụng lông trong quá trình quét.",
+            "Cán gỗ ergonomic: Cán cọ làm bằng gỗ tự nhiên nhẹ, được mài nhẵn cầm rất đầm tay, không gây mỏi khi làm việc liên tục. Phần đuôi sơn đỏ đặc trưng dễ bảo quản, treo cất tiện lợi."
+        ],
+        "image": "images/products/paint-brush-4-inch.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "brass-embossing-die",
+        "name": "Khuôn dập nóng đồng thau vuông có 4 chốt định vị",
+        "nameEn": "Square Brass Embossing Die / Hot Stamping Mold with 4 Guiding Pins",
+        "nameZh": "黄铜压花模具 / 热烫印模具 / 带四定位销方型模具",
+        "categoryId": "machining-tools",
+        "description": "Khuôn dập nổi, dập nóng hoa văn lên da, gỗ, giấy, kim loại mỏng trên máy dập hoặc máy ép thủy lực. Đế đồng thau, tấm thép tôi cứng, 4 chốt định vị.",
+        "specs": [
+            { "label": "Phân loại", "value": "Khuôn dập nóng/dập nổi (hoặc bộ dưỡng dập kim loại) có chốt định vị" },
+            { "label": "Chất liệu", "value": "Hợp kim đồng thau (brass) cao cấp kết hợp với thép tấm tôi cứng (steel insert) tăng độ chống mòn" },
+            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Chế tạo cơ khí chính xác theo đơn hàng/tiêu chuẩn công nghiệp" }
+        ],
+        "features": [
+            "Ứng dụng chủ yếu: Sử dụng trong các dây chuyền hoặc máy dập cơ học, máy ép thủy lực để dập nổi, dập chìm, ép nhiệt các loại hoa văn lên nhiều bề mặt như da, gỗ, giấy mỹ thuật, kim loại mỏng hoặc sản xuất các chi tiết kỹ thuật/mỹ nghệ nhỏ.",
+            "Làm chi tiết khuôn dẫn hướng, định vị phôi trong công nghiệp đột dập cơ khí chế tạo.",
+            "4 chốt định vị chính xác: Giúp khuôn luôn khớp đúng tâm, không bị xê dịch hay xéo lệch khi chịu lực dập mạnh liên tục, đảm bảo thành phẩm có độ chuẩn xác cực cao (dung sai nhỏ) và đồng đều.",
+            "Phần đế đồng thau dày dặn cho khả năng truyền và giữ nhiệt tuyệt vời khi cần dập nóng/ép nhiệt.",
+            "Phần tấm khuôn thép phía trên có khả năng chống mòn, chống xước và chịu được áp lực dập cực lớn, không bị biến dạng qua hàng nghìn lượt ép dập.",
+            "Tối ưu thao tác: Lỗ giữa đóng vai trò thông khí, thoát phôi hoặc liên kết trục chính máy; các lỗ phụ và điểm đánh dấu đỏ giúp kỹ thuật viên dễ dàng căn chỉnh hướng đặt phôi nhanh nhất."
+        ],
+        "image": "images/products/brass-embossing-die.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "lifting-eye-bolt-m30",
+        "name": "Bu lông móc cẩu M30 mạ kẽm 3.6 tấn (DIN 580)",
+        "nameEn": "M30 Drop Forged Lifting Eye Bolt (WLL 3.6 Tons - DIN 580 / CE Standard)",
+        "nameZh": "吊环螺栓 M30 / 模锻起重吊环 / 镀锌吊环螺丝",
+        "categoryId": "industrial-supplies",
+        "description": "Bu lông vòng cẩu thép đúc rèn, ren M30, tải trọng làm việc 3.6 tấn, chuẩn DIN 580/CE. Dùng nâng hạ máy móc, khuôn đúc, kết cấu thép.",
+        "specs": [
+            { "label": "Phân loại", "value": "Bu lông móc cẩu (Móc cẩu ren ngoài / Bu lông vòng cẩu hàng)" },
+            { "label": "Chất liệu", "value": "Thép đúc rèn chịu lực cao (Drop Forged Carbon Steel / Alloy Steel), bề mặt mạ kẽm chống gỉ" },
+            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Sản xuất theo tiêu chuẩn quốc tế DIN 580 / CE" },
+            { "label": "Kích thước ren", "value": "M30 (đường kính ren 30mm)" },
+            { "label": "Tải trọng làm việc (WLL)", "value": "3.6 tấn" },
+            { "label": "Chứng nhận an toàn", "value": "CE Mark" }
+        ],
+        "features": [
+            "Ứng dụng nâng hạ chuyên dụng: Dùng để vặn cố định vào các khối máy móc hạng nặng, động cơ, khuôn đúc, máy móc công nghiệp hoặc kết cấu thép lớn.",
+            "Phần vòng tròn (móc mắt) cho phép dễ dàng móc dây cáp thép, xích tải hoặc móc cẩu của cần trục để di chuyển và nâng hạ an toàn.",
+            "Chịu tải trọng cực cao: Thiết kế đúc rèn nguyên khối giúp bu lông chịu được lực kéo đứng tối đa lên tới 3.6 tấn (WLL 3.6T) mà không lo nứt gãy hay biến dạng.",
+            "Đạt chuẩn an toàn quốc tế: Sản phẩm dập nổi chứng nhận CE và các thông số kỹ thuật trực tiếp trên thân, giúp kỹ thuật viên dễ dàng kiểm tra tải trọng an toàn trước khi vận hành.",
+            "Chống gỉ và bảo vệ ren tốt: Bề mặt mạ kẽm chống ăn mòn hiệu quả trong môi trường nhà xưởng, công trình. Phần ren chân M30 được trang bị lưới nhựa bảo vệ tránh trầy xước trong quá trình vận chuyển."
+        ],
+        "image": "images/products/lifting-eye-bolt-m30.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "rs485-modbus-io-module",
+        "name": "Mạch điều khiển truyền thông RS485 / Bo mạch IO Modbus RTU",
+        "nameEn": "RS485 Modbus RTU Relay / IO Controller Module (Industrial Expansion Board)",
+        "nameZh": "RS485 采集模块 / IO 控制板 / 开关量输入输出模块",
+        "categoryId": "electrical-equipment",
+        "description": "Bo mạch thu thập và điều khiển tín hiệu IO qua RS485/Modbus RTU, truyền xa tới 1200m. Kết nối PLC, HMI, máy tính công nghiệp; DIP switch cài địa chỉ.",
+        "specs": [
+            { "label": "Phân loại", "value": "Bo mạch điều khiển truyền thông công nghiệp / Mạch IO RS485 Modbus RTU (Bộ chuyển đổi / Bộ mở rộng tín hiệu)" },
+            { "label": "Cổng kết nối", "value": "Trạm đấu nối dây (Terminal Block); công tắc gạt cấu hình địa chỉ (DIP Switch 8 vị trí); cổng mạng RJ45 / RS485 và đèn LED báo trạng thái" },
+            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Đã qua kiểm định chất lượng (Tem QC Passed)" }
+        ],
+        "features": [
+            "Thu thập & điều khiển tín hiệu tự động hóa: Kết nối và truyền nhận dữ liệu giữa các cảm biến, công tắc, thiết bị ngoại vi với hệ thống điều khiển trung tâm (PLC, máy tính công nghiệp, màn hình HMI).",
+            "Ứng dụng phổ biến trong hệ thống nhà thông minh (Smart Home), điều khiển chiếu sáng công nghiệp, tự động hóa tòa nhà (BMS) và giám sát từ xa.",
+            "Chuẩn truyền thông RS485 / Modbus RTU bền bỉ: Truyền tín hiệu đi xa (lên tới 1200m) với độ ổn định cao, chống nhiễu vượt trội trong môi trường công nghiệp.",
+            "Tích hợp DIP Switch giúp cài đặt địa chỉ ID thiết bị và tốc độ baudrate nhanh chóng, linh hoạt khi ghép nối nhiều bo mạch chung một đường truyền.",
+            "Cắm nối tiện lợi & dễ bảo trì: Trạm đấu dây (Terminal Block) giúp nối dây điện chắc chắn, dễ tháo lắp; đèn LED báo hiệu (Power/Status/TX/RX) giúp dễ quan sát trạng thái hoạt động và xử lý sự cố."
+        ],
+        "image": "images/products/rs485-modbus-io-module.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "hss-drill-bit-set",
+        "name": "Bộ mũi khoan thép gió HSS (Hộp sắt)",
+        "nameEn": "HSS Twist Drill Bit Set with Blue Metal Case / Industrial Straight Shank Drill Bits",
+        "nameZh": "麻花钻套装 / 高速钢麻花钻 / 铁盒装高速钢钻头",
+        "categoryId": "machining-tools",
+        "description": "Mũi khoan xoắn thép gió HSS cho thép, sắt, inox, nhôm, đồng, gỗ và nhựa cứng; dùng với máy khoan bàn, khoan từ, khoan tay, CNC. Đựng trong hộp sắt.",
+        "specs": [
+            { "label": "Phân loại", "value": "Bộ mũi khoan xoắn kim loại / Mũi khoan thép gió (HSS Twist Drill Bit Set)" },
+            { "label": "Chất liệu", "value": "Thép gió cao cấp HSS (High-Speed Steel / HSS-Co), phủ lớp nhuộm đen hoặc mạ oxit chống mài mòn" },
+            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Đóng hộp sắt xanh công nghiệp tiêu chuẩn" }
+        ],
+        "features": [
+            "Ứng dụng gia công kim loại: Chuyên dùng để khoan lỗ trên các vật liệu cứng như thép, sắt, inox, hợp kim nhôm, đồng, cũng như gỗ và nhựa cứng.",
+            "Tương thích hoàn hảo với máy khoan bàn, máy khoan từ, máy khoan tay và máy khoan CNC.",
+            "Thép gió HSS chịu nhiệt & chống mòn: Lưỡi cắt sắc bén giúp thoát phôi nhanh, đường khoan mịn và không tạo bavia; chịu nhiệt độ cao khi khoan tốc độ lớn, hạn chế mòn sứt đầu mũi khoan.",
+            "Hộp sắt bảo quản chuyên dụng: Hộp đựng bằng sắt phủ sơn tĩnh điện màu xanh chắc chắn, chống va đập tốt hơn hộp nhựa; các ngăn xếp lớp giúp cố định mũi khoan, dễ lấy và tránh thất lạc hay sứt mẻ khi di chuyển."
+        ],
+        "image": "images/products/hss-drill-bit-set.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "mig-welding-nozzle-15ak",
+        "name": "Chụp khí súng hàn MIG 15AK BAO HU ZUI (Hộp 5 cái)",
+        "nameEn": "BAO HU ZUI 15AK MIG Welding Gas Nozzle (5pcs/box) / MIG Torch Protective Shroud",
+        "nameZh": "保护嘴 / 二保焊枪保护嘴 / 15AK 气体保护焊嘴 (内装 5只)",
+        "categoryId": "machining-tools",
+        "description": "Chụp khí cho súng hàn MIG 15AK (máy hàn 200A–270A): dẫn khí bảo vệ CO2/Argon đều quanh vũng hàn, bảo vệ béc hàn khỏi xỉ. Hộp 5 cái.",
+        "specs": [
+            { "label": "Thương hiệu", "value": "BAO HU ZUI (Bảo Hộ Chủy)" },
+            { "label": "Phân loại", "value": "Phụ kiện mỏ hàn - Chụp khí súng hàn MIG (MIG Welding Nozzle)" },
+            { "label": "Mẫu mã áp dụng", "value": "Thích hợp nhất cho súng hàn MIG loại 15AK (phổ biến với các dòng máy hàn MIG 200A - 250A - 270A)" },
+            { "label": "Quy cách đóng gói", "value": "Hộp giấy 5 chiếc (内装 5只)" },
+            { "label": "Chất liệu", "value": "Đồng/hợp kim mạ kẽm hoặc chrome sáng bóng, chống bám dính xỉ và chịu nhiệt độ cao" },
+            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China)" }
+        ],
+        "features": [
+            "Điều hướng khí bảo vệ tối ưu: Định hướng và phân phối đều luồng khí bảo vệ (CO2/Argon) bao quanh vũng hàn, ngăn sự xâm nhập của không khí bên ngoài, giúp mối hàn sáng, không bị rỗ khí và đạt độ ngấu tốt.",
+            "Bảo vệ béc hàn & đầu mỏ hàn: Ngăn xỉ hàn, tia lửa bắn tóe bám trực tiếp vào béc hàn và đầu phun bên trong, gia tăng đáng kể tuổi thọ của súng hàn.",
+            "Chất liệu bền bỉ & chống dính: Làm từ hợp kim chịu nhiệt tốt, bề mặt mạ kim loại cao cấp giúp giảm thiểu tình trạng dính xỉ hàn (có thể kết hợp thêm sáp/mỡ hàn để đạt hiệu quả tối đa).",
+            "Thiết kế tiện lợi: Kích thước chuẩn xác của súng 15AK giúp tháo lắp nhanh chóng và dễ dàng thay thế ngay tại công trường hay xưởng sản xuất."
+        ],
+        "image": "images/products/mig-welding-nozzle-15ak.jpg",
         "price": "",
         "featured": false
     }

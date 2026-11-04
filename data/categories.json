@@ -1,27 +1,22 @@
 ﻿[
     {
-        "id": "helmets",
-        "name": "Mũ bảo hộ",
-        "description": "Thiết bị bảo vệ vùng đầu."
+        "id": "measuring-tools",
+        "name": "Dụng cụ đo & kiểm tra",
+        "description": "Thiết bị đo lường, kiểm tra và hiệu chuẩn."
     },
     {
-        "id": "safety-shoes",
-        "name": "Giày bảo hộ",
-        "description": "Thiết bị bảo vệ bàn chân."
+        "id": "electrical-equipment",
+        "name": "Thiết bị điện & tự động hóa",
+        "description": "Thiết bị đóng cắt, cấp nguồn và điều khiển tín hiệu."
     },
     {
-        "id": "gloves",
-        "name": "Găng tay bảo hộ",
-        "description": "Thiết bị bảo vệ bàn tay."
+        "id": "machining-tools",
+        "name": "Dụng cụ gia công cơ khí",
+        "description": "Đá mài, mũi khoan, khuôn dập và phụ kiện hàn."
     },
     {
-        "id": "protective-clothing",
-        "name": "Quần áo bảo hộ",
-        "description": "Trang phục bảo hộ lao động."
-    },
-    {
-        "id": "safety-glasses",
-        "name": "Kính bảo hộ",
-        "description": "Thiết bị bảo vệ mắt."
+        "id": "industrial-supplies",
+        "name": "Vật tư công nghiệp",
+        "description": "Băng keo, chổi sơn, móc cẩu, đèn pin và vật tư phụ trợ."
     }
 ]
