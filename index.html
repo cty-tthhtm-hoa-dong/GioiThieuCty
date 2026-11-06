@@ -7,37 +7,60 @@
     <title>Bảo Hộ Việt | Thiết bị bảo hộ lao động</title>
     <meta name="description" content="Cung cấp thiết bị bảo hộ lao động cho doanh nghiệp, nhà máy và công trường.">
 
-    <script src="js/main.js" defer></script>
-    <link rel="stylesheet" href="css/style.css?v=20261026">
-    
+    <script src="js/main.js?v=20261106" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20261106">
+
 </head>
 
 <body>
     <div id="navbar"></div>
 
     <main>
-        <section class="hero">
-            <div class="hero-content">
-                <p class="hero-label">THIẾT BỊ BẢO HỘ LAO ĐỘNG</p>
-
-                <h1>An toàn trong lao động.<br>Vững bước trong sản xuất.</h1>
-
-                <p class="hero-description">
-                    Cung cấp thiết bị bảo hộ phục vụ doanh nghiệp, nhà máy
-                    và công trường. Hỗ trợ khách hàng lựa chọn sản phẩm
-                    phù hợp với nhu cầu sử dụng và môi trường làm việc.
-                </p>
-
-                <a href="products.html" class="hero-button">
-                    Xem danh mục sản phẩm <span>→</span>
-                </a>
-            </div>
-
-            <div class="hero-image">
+        <section class="company-hero">
+            <!-- Banner công ty: hiển thị trọn khung, bấm vào để xem sản phẩm -->
+            <a href="products.html" class="hero-banner" aria-label="Khám phá sản phẩm của Công ty TNHH Thương mại Hoá Đông">
                 <img
-                    src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=85"
-                    alt="Môi trường làm việc tại công trường"
+                    src="images/home/banner-hoa-dong.jpg"
+                    alt="Công ty TNHH Thương mại Hoá Đông - Kết nối giá trị, kiến tạo thành công"
+                    width="2048"
+                    height="768"
                 >
+            </a>
+
+            <!-- Thông tin doanh nghiệp -->
+            <div class="company-info">
+                <div class="company-heading">
+                    <p class="hero-label">THIẾT BỊ BẢO HỘ LAO ĐỘNG</p>
+
+                    <h1>CÔNG TY TNHH THƯƠNG MẠI HOÁ ĐÔNG</h1>
+
+                    <a href="products.html" class="hero-button">
+                        Xem danh mục sản phẩm <span>→</span>
+                    </a>
+                </div>
+
+                <dl class="company-details">
+                    <div>
+                        <dt>Đại diện pháp luật</dt>
+                        <dd>Bà Nguyễn Thị Hương Giang</dd>
+                    </div>
+                    <div>
+                        <dt>Mã số thuế</dt>
+                        <dd>2300888090</dd>
+                    </div>
+                    <div>
+                        <dt>Địa chỉ</dt>
+                        <dd>Thôn Hương Vinh, Xã Gia Bình, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam</dd>
+                    </div>
+                    <div>
+                        <dt>Hotline / Zalo</dt>
+                        <dd>
+                            <a href="tel:0904936413">0904.936.413</a>
+                            /
+                            <a href="tel:0241389666">0241.389.666</a>
+                        </dd>
+                    </div>
+                </dl>
             </div>
         </section>
 
@@ -55,10 +78,17 @@
 
             <div class="product-list">
                 <article class="product-item">
-                    <div class="product-image">
+                    <!-- Nhiều ảnh: tự chuyển lần lượt (js/main.js) -->
+                    <div class="product-image image-slideshow">
                         <img
-                            src="https://images.unsplash.com/photo-1581147036324-c1c89c2c8b5c?auto=format&fit=crop&w=700&q=80"
-                            alt="Thiết bị bảo hộ lao động"
+                            class="is-active"
+                            src="images/home/mu-bao-ho-1.jpg"
+                            alt="Mũ bảo hộ chịu lực cao, chống tia cực tím, thoáng khí"
+                            loading="lazy"
+                        >
+                        <img
+                            src="images/home/mu-bao-ho-2.jpg"
+                            alt="Hướng dẫn các bước đội mũ bảo hộ đúng cách"
                             loading="lazy"
                         >
                     </div>
@@ -72,8 +102,8 @@
                 <article class="product-item">
                     <div class="product-image">
                         <img
-                            src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=700&q=80"
-                            alt="Giày"
+                            src="images/home/giay-bao-ho-1.jpg"
+                            alt="Giày bảo hộ lao động da màu đen"
                             loading="lazy"
                         >
                     </div>
@@ -85,10 +115,21 @@
                 </article>
 
                 <article class="product-item">
-                    <div class="product-image">
+                    <div class="product-image image-slideshow">
                         <img
-                            src="https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=700&q=80"
-                            alt="Quần áo"
+                            class="is-active"
+                            src="images/home/quan-ao-bao-ho-1.jpg"
+                            alt="Áo phản quang và quần áo bảo hộ lao động"
+                            loading="lazy"
+                        >
+                        <img
+                            src="images/home/quan-ao-bao-ho-2.jpg"
+                            alt="Áo phản quang màu vàng"
+                            loading="lazy"
+                        >
+                        <img
+                            src="images/home/quan-ao-bao-ho-3.jpg"
+                            alt="Các mẫu quần áo bảo hộ có dải phản quang"
                             loading="lazy"
                         >
                     </div>
@@ -100,10 +141,21 @@
                 </article>
 
                 <article class="product-item">
-                    <div class="product-image">
+                    <div class="product-image image-slideshow">
                         <img
-                            src="https://images.unsplash.com/photo-1584634731339-252c581abfc5?auto=format&fit=crop&w=700&q=80"
-                            alt="Thiết bị bảo vệ cá nhân"
+                            class="is-active"
+                            src="images/home/thiet-bi-bao-ho-khac-1.jpg"
+                            alt="Găng tay bảo hộ phủ cao su"
+                            loading="lazy"
+                        >
+                        <img
+                            src="images/home/thiet-bi-bao-ho-khac-2.jpg"
+                            alt="Kính hàn tự động tối màu"
+                            loading="lazy"
+                        >
+                        <img
+                            src="images/home/thiet-bi-bao-ho-khac-3.jpg"
+                            alt="Kính bảo hộ trong suốt"
                             loading="lazy"
                         >
                     </div>
@@ -116,27 +168,85 @@
             </div>
         </section>
 
-        <section class="about">
-            <div>
-                <p class="section-label">VỀ CHÚNG TÔI</p>
-                <h2>Đặt nhu cầu khách hàng làm trọng tâm.</h2>
+        <!-- Bài viết: mỗi bài có trang và link riêng để chia sẻ -->
+        <section class="articles" id="bai-viet" aria-labelledby="articlesHeading">
+            <div class="section-heading">
+                <div>
+                    <p class="section-label">BÀI VIẾT</p>
+                    <h2 id="articlesHeading">Tin tức &amp; kiến thức</h2>
+                </div>
             </div>
 
-            <div class="about-content">
-                <p>
-                    Chúng tôi kinh doanh các thiết bị bảo hộ lao động,
-                    phục vụ doanh nghiệp, nhà máy, công trường và người lao động.
-                </p>
+            <div class="article-list">
+                <article class="article-card">
+                    <a href="bai-viet-toi-uu-chuoi-cung-ung-mro.html" class="article-card-image" tabindex="-1" aria-hidden="true">
+                        <img
+                            src="images/articles/mro-kho-hang.jpg"
+                            alt=""
+                            loading="lazy"
+                        >
+                    </a>
 
-                <p>
-                    Với định hướng cung cấp thông tin rõ ràng và hỗ trợ tư vấn,
-                    chúng tôi mong muốn giúp khách hàng lựa chọn sản phẩm
-                    phù hợp với yêu cầu công việc và điều kiện sử dụng thực tế.
-                </p>
+                    <div class="article-card-content">
+                        <p class="article-card-meta">Thực hiện: Phạm Thị Thuỳ Linh</p>
 
-                <a href="about.html" class="about-link">
-                    Tìm hiểu về doanh nghiệp →
-                </a>
+                        <h3>
+                            <a href="bai-viet-toi-uu-chuoi-cung-ung-mro.html">
+                                Giải mã bài toán tối ưu chuỗi cung ứng MRO cho các doanh nghiệp công nghiệp Việt Nam
+                            </a>
+                        </h3>
+
+                        <p class="article-card-excerpt">
+                            Trong bối cảnh FDI đổ mạnh vào Việt Nam, duy trì chuỗi cung ứng vật tư
+                            vận hành, bảo trì và sửa chữa (MRO) ổn định đang trở thành bài toán
+                            sinh tử với hàng nghìn nhà máy.
+                        </p>
+
+                        <div class="article-actions">
+                            <a href="bai-viet-toi-uu-chuoi-cung-ung-mro.html" class="article-read-link">
+                                Đọc bài viết →
+                            </a>
+                            <button type="button" class="copy-link-button" data-copy-link="bai-viet-toi-uu-chuoi-cung-ung-mro.html">
+                                Sao chép link
+                            </button>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <a href="bai-viet-thiet-bi-bao-ho-lao-dong.html" class="article-card-image" tabindex="-1" aria-hidden="true">
+                        <img
+                            src="images/articles/bao-ho-mu-bao-ho.jpg"
+                            alt=""
+                            loading="lazy"
+                        >
+                    </a>
+
+                    <div class="article-card-content">
+                        <p class="article-card-meta">Thực hiện: Mai Thị Thảo</p>
+
+                        <h3>
+                            <a href="bai-viet-thiet-bi-bao-ho-lao-dong.html">
+                                Thiết bị bảo hộ lao động: Yêu cầu thiết yếu trong môi trường sản xuất
+                            </a>
+                        </h3>
+
+                        <p class="article-card-excerpt">
+                            Từ nhà xưởng, công trường đến dây chuyền sản xuất, lựa chọn và trang bị
+                            thiết bị bảo hộ phù hợp là yêu cầu quan trọng, góp phần hạn chế tai nạn
+                            lao động.
+                        </p>
+
+                        <div class="article-actions">
+                            <a href="bai-viet-thiet-bi-bao-ho-lao-dong.html" class="article-read-link">
+                                Đọc bài viết →
+                            </a>
+                            <button type="button" class="copy-link-button" data-copy-link="bai-viet-thiet-bi-bao-ho-lao-dong.html">
+                                Sao chép link
+                            </button>
+                        </div>
+                    </div>
+                </article>
             </div>
         </section>
 
