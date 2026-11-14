@@ -1758,3 +1758,53 @@
     }
 }
 
+
+/* LIÊN HỆ: CHỈ CÒN MỘT CỘT THÔNG TIN */
+
+.contact-content.contact-content-single {
+    max-width: 760px;
+    grid-template-columns: 1fr;
+}
+
+/* BÀI VIẾT: NHIỀU BÀI, CẢNH BÁO, ẢNH CÓ NHÃN */
+
+.article-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.article-card h3 {
+    font-size: 18px;
+}
+
+.article-body .article-warning {
+    margin: 28px 0;
+    padding: 18px 22px;
+    border-left: 4px solid #c0392b;
+    background: #fdf1ef;
+    color: #8e2a1f;
+    line-height: 1.7;
+}
+
+.figure-labeled {
+    text-align: center;
+}
+
+.figure-labeled span {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--navy);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+@media (max-width: 1000px) {
+    .article-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 760px) {
+    .article-list {
+        grid-template-columns: 1fr;
+    }
+}

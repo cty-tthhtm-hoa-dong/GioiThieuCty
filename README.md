@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/"><img src="https://img.shields.io/badge/Website-%C4%91ang%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng-2ea44f?style=for-the-badge" alt="Website đang hoạt động"></a>
   <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html"><img src="https://img.shields.io/badge/S%E1%BA%A3n%20ph%E1%BA%A9m-18-183247?style=for-the-badge" alt="18 sản phẩm"></a>
-  <a href="#bài-viết"><img src="https://img.shields.io/badge/B%C3%A0i%20vi%E1%BA%BFt-2-c58a38?style=for-the-badge" alt="2 bài viết"></a>
+  <a href="#bài-viết"><img src="https://img.shields.io/badge/B%C3%A0i%20vi%E1%BA%BFt-7-c58a38?style=for-the-badge" alt="7 bài viết"></a>
 </p>
 
 <p align="center">
@@ -57,8 +57,7 @@
 | Sản phẩm | [`products.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html) | 18 sản phẩm, lọc theo hạng mục và tìm kiếm |
 | Về chúng tôi | [`about.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/about.html) | Giới thiệu doanh nghiệp |
 | Liên hệ | [`contact.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/contact.html) | Thông tin liên hệ |
-| Bài viết MRO | [`bai-viet-toi-uu-chuoi-cung-ung-mro.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-toi-uu-chuoi-cung-ung-mro.html) | Bài viết về chuỗi cung ứng MRO |
-| Bài viết bảo hộ | [`bai-viet-thiet-bi-bao-ho-lao-dong.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-bao-ho-lao-dong.html) | Bài viết về thiết bị bảo hộ lao động |
+| Bài viết (7 bài) | `bai-viet-*.html` | Mỗi bài một trang riêng, xem danh sách ở mục Bài viết |
 
 ## Sản phẩm
 
@@ -170,19 +169,44 @@ Mỗi bài viết có link riêng. Bấm nút **“Sao chép link”** trên web
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-toi-uu-chuoi-cung-ung-mro.html"><img src="images/articles/mro-kho-hang.jpg" alt="Kho vật tư công nghiệp"></a>
-      <br>
-      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-toi-uu-chuoi-cung-ung-mro.html">Giải mã bài toán tối ưu chuỗi cung ứng MRO cho các doanh nghiệp công nghiệp Việt Nam</a></b>
-      <br>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-toi-uu-chuoi-cung-ung-mro.html"><img src="images/articles/mro-kho-hang.jpg" alt="Giải mã bài toán tối ưu chuỗi cung ứng MRO cho các doanh nghiệp công nghiệp Việt Nam"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-toi-uu-chuoi-cung-ung-mro.html">Giải mã bài toán tối ưu chuỗi cung ứng MRO cho các doanh nghiệp công nghiệp Việt Nam</a></b><br>
       <sub>Thực hiện: Phạm Thị Thuỳ Linh</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-bao-ho-lao-dong.html"><img src="images/articles/bao-ho-mu-bao-ho.jpg" alt="Mũ bảo hộ lao động"></a>
-      <br>
-      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-bao-ho-lao-dong.html">Thiết bị bảo hộ lao động: Yêu cầu thiết yếu trong môi trường sản xuất</a></b>
-      <br>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-bao-ho-lao-dong.html"><img src="images/articles/bao-ho-mu-bao-ho.jpg" alt="Thiết bị bảo hộ lao động: Yêu cầu thiết yếu trong môi trường sản xuất"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-bao-ho-lao-dong.html">Thiết bị bảo hộ lao động: Yêu cầu thiết yếu trong môi trường sản xuất</a></b><br>
       <sub>Thực hiện: Mai Thị Thảo</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-van-hanh-may-cat-ban.html"><img src="images/articles/cat-may-cat-ban.jpg" alt="Kỹ thuật vận hành máy cắt bàn an toàn và chính xác trong xưởng gia công"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-van-hanh-may-cat-ban.html">Kỹ thuật vận hành máy cắt bàn an toàn và chính xác trong xưởng gia công</a></b><br>
+      <sub>Thực hiện: Phạm Thị Thùy Linh</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-may-mai-dung-cu-co-khi.html"><img src="images/articles/mai-may-mai-cam-tay.jpg" alt="Máy mài và dụng cụ cơ khí trong hoạt động sản xuất"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-may-mai-dung-cu-co-khi.html">Máy mài và dụng cụ cơ khí trong hoạt động sản xuất</a></b><br>
+      <sub>Thực hiện: Mai Thị Thảo</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-5-sai-lam-chon-thiet-bi-bao-ho.html"><img src="images/articles/sai-lam-thiet-bi-bao-ho.jpg" alt="5 sai lầm thường gặp khi lựa chọn thiết bị bảo hộ lao động"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-5-sai-lam-chon-thiet-bi-bao-ho.html">5 sai lầm thường gặp khi lựa chọn thiết bị bảo hộ lao động</a></b><br>
+      <sub>Thực hiện: Mai Thị Thảo, Phạm Thị Thuỳ Linh</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-canh-bao-lay-vat-mac-ket-trong-may.html"><img src="images/articles/loto-5-buoc.jpg" alt="Cảnh báo nguy cơ tai nạn khi lấy vật mắc kẹt trong máy đang vận hành"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-canh-bao-lay-vat-mac-ket-trong-may.html">Cảnh báo nguy cơ tai nạn khi lấy vật mắc kẹt trong máy đang vận hành</a></b><br>
+      <sub>Thực hiện: Thu Hà, Mai Thảo, Thùy Linh</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-an-toan-lao-dong-xay-dung.html"><img src="images/articles/xd-an-toan-lao-dong.jpg" alt="An toàn lao động – Yêu cầu cấp thiết trong hoạt động xây dựng"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-an-toan-lao-dong-xay-dung.html">An toàn lao động – Yêu cầu cấp thiết trong hoạt động xây dựng</a></b><br>
+      <sub>Thực hiện: Thu Hà, Thùy Linh, Mai Thảo</sub>
     </td>
   </tr>
 </table>
