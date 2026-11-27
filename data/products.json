@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id": "pin-gauge-set",
         "name": "Thước đo gen (Bộ chốt đo chuẩn)",
@@ -280,11 +280,26 @@
         "categoryId": "industrial-supplies",
         "description": "Cọ sơn lông heo tự nhiên, cán gỗ, bản 100mm; giữ sơn tốt, ít rụng lông. Dùng cho sơn dầu, sơn nước, vecni trên gỗ, kim loại, tường nhà.",
         "specs": [
-            { "label": "Thương hiệu", "value": "Coconut Tree Brand (椰树牌 - Thương hiệu Cây Dừa)" },
-            { "label": "Nhà sản xuất", "value": "Nhà máy cọ Nam Thảo, Quảng Châu (广州市南草毛刷厂)" },
-            { "label": "Xuất xứ", "value": "Quảng Châu, Trung Quốc (Guangzhou, China)" },
-            { "label": "Chất liệu", "value": "Sợi lông heo tự nhiên (Natural Hog Bristles) cao cấp, cán bằng gỗ tự nhiên nhẹ và chắc chắn" },
-            { "label": "Phân loại", "value": "Chổi quét sơn chuyên dụng 4-inch (100mm)" }
+            {
+                "label": "Thương hiệu",
+                "value": "Coconut Tree Brand (椰树牌 - Thương hiệu Cây Dừa)"
+            },
+            {
+                "label": "Nhà sản xuất",
+                "value": "Nhà máy cọ Nam Thảo, Quảng Châu (广州市南草毛刷厂)"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Quảng Châu, Trung Quốc (Guangzhou, China)"
+            },
+            {
+                "label": "Chất liệu",
+                "value": "Sợi lông heo tự nhiên (Natural Hog Bristles) cao cấp, cán bằng gỗ tự nhiên nhẹ và chắc chắn"
+            },
+            {
+                "label": "Phân loại",
+                "value": "Chổi quét sơn chuyên dụng 4-inch (100mm)"
+            }
         ],
         "features": [
             "Ứng dụng đa năng: Chuyên dùng để thi công sơn dầu, sơn nước, vecni hoặc sơn chống thấm lên các bề mặt gỗ, kim loại, tường nhà.",
@@ -305,9 +320,18 @@
         "categoryId": "machining-tools",
         "description": "Khuôn dập nổi, dập nóng hoa văn lên da, gỗ, giấy, kim loại mỏng trên máy dập hoặc máy ép thủy lực. Đế đồng thau, tấm thép tôi cứng, 4 chốt định vị.",
         "specs": [
-            { "label": "Phân loại", "value": "Khuôn dập nóng/dập nổi (hoặc bộ dưỡng dập kim loại) có chốt định vị" },
-            { "label": "Chất liệu", "value": "Hợp kim đồng thau (brass) cao cấp kết hợp với thép tấm tôi cứng (steel insert) tăng độ chống mòn" },
-            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Chế tạo cơ khí chính xác theo đơn hàng/tiêu chuẩn công nghiệp" }
+            {
+                "label": "Phân loại",
+                "value": "Khuôn dập nóng/dập nổi (hoặc bộ dưỡng dập kim loại) có chốt định vị"
+            },
+            {
+                "label": "Chất liệu",
+                "value": "Hợp kim đồng thau (brass) cao cấp kết hợp với thép tấm tôi cứng (steel insert) tăng độ chống mòn"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Trung Quốc (Made in China) – Chế tạo cơ khí chính xác theo đơn hàng/tiêu chuẩn công nghiệp"
+            }
         ],
         "features": [
             "Ứng dụng chủ yếu: Sử dụng trong các dây chuyền hoặc máy dập cơ học, máy ép thủy lực để dập nổi, dập chìm, ép nhiệt các loại hoa văn lên nhiều bề mặt như da, gỗ, giấy mỹ thuật, kim loại mỏng hoặc sản xuất các chi tiết kỹ thuật/mỹ nghệ nhỏ.",
@@ -329,12 +353,30 @@
         "categoryId": "industrial-supplies",
         "description": "Bu lông vòng cẩu thép đúc rèn, ren M30, tải trọng làm việc 3.6 tấn, chuẩn DIN 580/CE. Dùng nâng hạ máy móc, khuôn đúc, kết cấu thép.",
         "specs": [
-            { "label": "Phân loại", "value": "Bu lông móc cẩu (Móc cẩu ren ngoài / Bu lông vòng cẩu hàng)" },
-            { "label": "Chất liệu", "value": "Thép đúc rèn chịu lực cao (Drop Forged Carbon Steel / Alloy Steel), bề mặt mạ kẽm chống gỉ" },
-            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Sản xuất theo tiêu chuẩn quốc tế DIN 580 / CE" },
-            { "label": "Kích thước ren", "value": "M30 (đường kính ren 30mm)" },
-            { "label": "Tải trọng làm việc (WLL)", "value": "3.6 tấn" },
-            { "label": "Chứng nhận an toàn", "value": "CE Mark" }
+            {
+                "label": "Phân loại",
+                "value": "Bu lông móc cẩu (Móc cẩu ren ngoài / Bu lông vòng cẩu hàng)"
+            },
+            {
+                "label": "Chất liệu",
+                "value": "Thép đúc rèn chịu lực cao (Drop Forged Carbon Steel / Alloy Steel), bề mặt mạ kẽm chống gỉ"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Trung Quốc (Made in China) – Sản xuất theo tiêu chuẩn quốc tế DIN 580 / CE"
+            },
+            {
+                "label": "Kích thước ren",
+                "value": "M30 (đường kính ren 30mm)"
+            },
+            {
+                "label": "Tải trọng làm việc (WLL)",
+                "value": "3.6 tấn"
+            },
+            {
+                "label": "Chứng nhận an toàn",
+                "value": "CE Mark"
+            }
         ],
         "features": [
             "Ứng dụng nâng hạ chuyên dụng: Dùng để vặn cố định vào các khối máy móc hạng nặng, động cơ, khuôn đúc, máy móc công nghiệp hoặc kết cấu thép lớn.",
@@ -355,9 +397,18 @@
         "categoryId": "electrical-equipment",
         "description": "Bo mạch thu thập và điều khiển tín hiệu IO qua RS485/Modbus RTU, truyền xa tới 1200m. Kết nối PLC, HMI, máy tính công nghiệp; DIP switch cài địa chỉ.",
         "specs": [
-            { "label": "Phân loại", "value": "Bo mạch điều khiển truyền thông công nghiệp / Mạch IO RS485 Modbus RTU (Bộ chuyển đổi / Bộ mở rộng tín hiệu)" },
-            { "label": "Cổng kết nối", "value": "Trạm đấu nối dây (Terminal Block); công tắc gạt cấu hình địa chỉ (DIP Switch 8 vị trí); cổng mạng RJ45 / RS485 và đèn LED báo trạng thái" },
-            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Đã qua kiểm định chất lượng (Tem QC Passed)" }
+            {
+                "label": "Phân loại",
+                "value": "Bo mạch điều khiển truyền thông công nghiệp / Mạch IO RS485 Modbus RTU (Bộ chuyển đổi / Bộ mở rộng tín hiệu)"
+            },
+            {
+                "label": "Cổng kết nối",
+                "value": "Trạm đấu nối dây (Terminal Block); công tắc gạt cấu hình địa chỉ (DIP Switch 8 vị trí); cổng mạng RJ45 / RS485 và đèn LED báo trạng thái"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Trung Quốc (Made in China) – Đã qua kiểm định chất lượng (Tem QC Passed)"
+            }
         ],
         "features": [
             "Thu thập & điều khiển tín hiệu tự động hóa: Kết nối và truyền nhận dữ liệu giữa các cảm biến, công tắc, thiết bị ngoại vi với hệ thống điều khiển trung tâm (PLC, máy tính công nghiệp, màn hình HMI).",
@@ -378,9 +429,18 @@
         "categoryId": "machining-tools",
         "description": "Mũi khoan xoắn thép gió HSS cho thép, sắt, inox, nhôm, đồng, gỗ và nhựa cứng; dùng với máy khoan bàn, khoan từ, khoan tay, CNC. Đựng trong hộp sắt.",
         "specs": [
-            { "label": "Phân loại", "value": "Bộ mũi khoan xoắn kim loại / Mũi khoan thép gió (HSS Twist Drill Bit Set)" },
-            { "label": "Chất liệu", "value": "Thép gió cao cấp HSS (High-Speed Steel / HSS-Co), phủ lớp nhuộm đen hoặc mạ oxit chống mài mòn" },
-            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China) – Đóng hộp sắt xanh công nghiệp tiêu chuẩn" }
+            {
+                "label": "Phân loại",
+                "value": "Bộ mũi khoan xoắn kim loại / Mũi khoan thép gió (HSS Twist Drill Bit Set)"
+            },
+            {
+                "label": "Chất liệu",
+                "value": "Thép gió cao cấp HSS (High-Speed Steel / HSS-Co), phủ lớp nhuộm đen hoặc mạ oxit chống mài mòn"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Trung Quốc (Made in China) – Đóng hộp sắt xanh công nghiệp tiêu chuẩn"
+            }
         ],
         "features": [
             "Ứng dụng gia công kim loại: Chuyên dùng để khoan lỗ trên các vật liệu cứng như thép, sắt, inox, hợp kim nhôm, đồng, cũng như gỗ và nhựa cứng.",
@@ -400,12 +460,30 @@
         "categoryId": "machining-tools",
         "description": "Chụp khí cho súng hàn MIG 15AK (máy hàn 200A–270A): dẫn khí bảo vệ CO2/Argon đều quanh vũng hàn, bảo vệ béc hàn khỏi xỉ. Hộp 5 cái.",
         "specs": [
-            { "label": "Thương hiệu", "value": "BAO HU ZUI (Bảo Hộ Chủy)" },
-            { "label": "Phân loại", "value": "Phụ kiện mỏ hàn - Chụp khí súng hàn MIG (MIG Welding Nozzle)" },
-            { "label": "Mẫu mã áp dụng", "value": "Thích hợp nhất cho súng hàn MIG loại 15AK (phổ biến với các dòng máy hàn MIG 200A - 250A - 270A)" },
-            { "label": "Quy cách đóng gói", "value": "Hộp giấy 5 chiếc (内装 5只)" },
-            { "label": "Chất liệu", "value": "Đồng/hợp kim mạ kẽm hoặc chrome sáng bóng, chống bám dính xỉ và chịu nhiệt độ cao" },
-            { "label": "Xuất xứ", "value": "Trung Quốc (Made in China)" }
+            {
+                "label": "Thương hiệu",
+                "value": "BAO HU ZUI (Bảo Hộ Chủy)"
+            },
+            {
+                "label": "Phân loại",
+                "value": "Phụ kiện mỏ hàn - Chụp khí súng hàn MIG (MIG Welding Nozzle)"
+            },
+            {
+                "label": "Mẫu mã áp dụng",
+                "value": "Thích hợp nhất cho súng hàn MIG loại 15AK (phổ biến với các dòng máy hàn MIG 200A - 250A - 270A)"
+            },
+            {
+                "label": "Quy cách đóng gói",
+                "value": "Hộp giấy 5 chiếc (内装 5只)"
+            },
+            {
+                "label": "Chất liệu",
+                "value": "Đồng/hợp kim mạ kẽm hoặc chrome sáng bóng, chống bám dính xỉ và chịu nhiệt độ cao"
+            },
+            {
+                "label": "Xuất xứ",
+                "value": "Trung Quốc (Made in China)"
+            }
         ],
         "features": [
             "Điều hướng khí bảo vệ tối ưu: Định hướng và phân phối đều luồng khí bảo vệ (CO2/Argon) bao quanh vũng hàn, ngăn sự xâm nhập của không khí bên ngoài, giúp mối hàn sáng, không bị rỗ khí và đạt độ ngấu tốt.",
@@ -414,6 +492,647 @@
             "Thiết kế tiện lợi: Kích thước chuẩn xác của súng 15AK giúp tháo lắp nhanh chóng và dễ dàng thay thế ngay tại công trường hay xưởng sản xuất."
         ],
         "image": "images/products/mig-welding-nozzle-15ak.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "bo-thiet-bi-bao-ho-ppe",
+        "name": "Bộ trang thiết bị bảo hộ lao động cá nhân (PPE)",
+        "nameEn": "Personal Protective Equipment (PPE) Set / Industrial Safety Gear Kit",
+        "nameZh": "个人防护装备套装",
+        "categoryId": "safety-equipment",
+        "description": "Bộ bảo hộ gồm mũ, giày mũi thép, găng tay, kính, tai nghe chống ồn và túi dụng cụ, bảo vệ toàn diện cho người lao động tại công trường, nhà máy.",
+        "specs": [
+            {
+                "label": "Bộ gồm",
+                "value": "Mũ bảo hộ công nghiệp, giày bảo hộ lao động, găng tay bảo hộ, kính bảo hộ, tai nghe chống ồn, túi đựng dụng cụ"
+            }
+        ],
+        "features": [
+            "Bảo vệ toàn diện cơ thể: Giảm thiểu nguy cơ chấn thương do tai nạn lao động tại công trường, nhà máy, xưởng cơ khí hoặc khu vực sản xuất.",
+            "Bảo vệ đầu: Mũ bảo hộ giúp phân tán lực tác động, chống va đập từ vật rơi hoặc va chạm cơ học.",
+            "Bảo vệ chân: Giày bảo hộ chống đâm xuyên (dinh, vật nhọn), chống dập ngón chân và va đập nặng.",
+            "Bảo vệ thị giác & thính giác: Kính bảo hộ ngăn bụi, mảnh vỡ và tia lửa điện; tai nghe chống ồn giảm tác hại của tiếng ồn tần số cao tới màng nhĩ.",
+            "Bảo vệ tay & hỗ trợ công việc: Găng tay giúp chống trầy xước, cắt xước và hóa chất nhẹ; túi đựng giúp cất giữ và di chuyển dụng cụ làm việc gọn gàng."
+        ],
+        "featuresEn": [
+            "Comprehensive Body Protection: Minimizes the risk of occupational injuries at construction sites, manufacturing plants, and industrial workshops.",
+            "Head Protection: The safety helmet absorbs and distributes impact forces, protecting the user from falling objects and accidental bumps.",
+            "Foot Protection: Safety boots feature puncture-resistant soles and reinforced toe caps to guard against sharp objects and heavy falling items.",
+            "Vision & Hearing Protection: Safety glasses protect the eyes from dust, flying debris, and sparks; earmuffs reduce high-decibel industrial noise to prevent hearing loss.",
+            "Hand Protection & Utility: Durable gloves prevent cuts, abrasions, and mild chemical exposure, while the tool pouch allows convenient storage and transport of essential tools."
+        ],
+        "image": "images/products/bo-thiet-bi-bao-ho-ppe.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "mu-bao-ho-lao-dong",
+        "name": "Mũ bảo hộ lao động / Nón bảo hộ công nghiệp",
+        "nameEn": "Hard Hat / Industrial Safety Helmet",
+        "nameZh": "安全帽",
+        "categoryId": "safety-equipment",
+        "description": "Vỏ cứng kết hợp đai lót hấp thụ lực va đập, chống tia UV, có núm vặn điều chỉnh kích thước và quai cằm; nhiều màu phân biệt vị trí làm việc.",
+        "features": [
+            "Bảo vệ phần đầu: Giảm thiểu tối đa nguy cơ chấn thương sọ não do các vật thể rơi từ trên cao xuống hoặc va đập vào các vật thể cứng tại công trường.",
+            "Phân tán lực va đập: Vỏ mũ cứng kết hợp với đai lót bên trong giúp hấp thụ và phân tán lực tác động, hạn chế va chạm trực tiếp vào da đầu.",
+            "Chống tia cực tím & thời tiết: Che nắng, che mưa và ngăn chặn tác hại của tia UV cho thợ kỹ thuật khi làm việc ngoài trời.",
+            "Tùy chỉnh linh hoạt: Trang bị núm vặn hoặc dây điều chỉnh kích thước phía sau cùng quai đeo cằm giúp mũ ôm sát đầu, không bị văng ra khi vận động.",
+            "Phân loại vai trò làm việc: Màu sắc mũ thường dùng để phân biệt vị trí (ví dụ: Trắng - Kỹ sư/Quản lý, Vàng - Công nhân, Xanh - Giám sát/Kỹ thuật)."
+        ],
+        "featuresEn": [
+            "Head Protection: Minimizes the risk of severe head injuries caused by falling objects or accidental impacts in construction and industrial environments.",
+            "Impact Absorption: The rigid outer shell combined with the interior suspension harness absorbs and shock-distributes mechanical forces.",
+            "UV & Weather Resistance: Shields workers from direct sunlight, UV radiation, and outdoor weather conditions during field operations.",
+            "Ergonomic Fit: Equipped with an adjustable ratchet system and chin strap to ensure a secure, customized fit for various head sizes.",
+            "Role Identification: Different helmet colors visually distinguish job roles on site (e.g., White for engineers/managers, Yellow for general laborers, Blue for supervisors/technicians)."
+        ],
+        "image": "images/products/mu-bao-ho-lao-dong.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "ao-phan-quang-bao-ho",
+        "name": "Áo bảo hộ lao động / Áo gi lê phản quang bảo hộ",
+        "nameEn": "Reflective Safety Vest / High-Visibility Workwear (Hi-Vis Jacket)",
+        "nameZh": "反光安全背心 / 劳保服",
+        "categoryId": "safety-equipment",
+        "description": "Dải phản quang giúp nhận diện người lao động trong điều kiện thiếu sáng, ban đêm; thiết kế nhẹ, thoáng, có loại nhiều túi đựng dụng cụ.",
+        "specs": [
+            {
+                "label": "Các dòng áo",
+                "value": "Áo gi lê phản quang cam; áo khoác bảo hộ phản quang; áo gi lê bảo hộ nhiều túi"
+            }
+        ],
+        "features": [
+            "Tăng khả năng nhận diện & cảnh báo: Các dải phản quang phát sáng khi có ánh đèn chiếu vào, giúp người xung quanh và người điều khiển phương tiện dễ dàng nhận biết người lao động trong điều kiện thiếu sáng hoặc ban đêm.",
+            "Bảo vệ an toàn lao động: Giảm thiểu nguy cơ tai nạn tại các công trình xây dựng, khu vực giao thông, bãi kho bãi và nhà xưởng công nghiệp.",
+            "Tiện lợi & đa năng: Thiết kế dáng gi lê mỏng nhẹ, thoáng khí, dễ mặc khoác ngoài các trang phục làm việc khác mà không gây vướng víu.",
+            "Cất giữ dụng cụ: Một số dòng áo được trang bị nhiều túi tiện lợi để đựng bộ đàm, bút, sổ tay, điện thoại và các vật dụng kỹ thuật nhỏ."
+        ],
+        "featuresEn": [
+            "Enhanced Visibility & Safety: High-visibility reflective strips reflect light to make workers clearly visible in low-light conditions, night shifts, or hazardous environments.",
+            "Accident Prevention: Reduces the risk of workplace hazards and traffic-related accidents on construction sites, roadways, and industrial zones.",
+            "Lightweight & Breathable Comfort: The sleeveless vest design allows full freedom of movement and fits comfortably over regular work garments.",
+            "Practical Tool Storage: Integrated multi-pocket layout provides convenient storage for walkie-talkies, pens, notebooks, and small hand tools."
+        ],
+        "image": "images/products/ao-phan-quang-bao-ho.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "gang-tay-bao-ho-det-kim",
+        "name": "Găng tay bảo hộ lao động / Găng tay sợi dệt kim phủ hạt nhựa",
+        "nameEn": "Safety Gloves / Knitting Work Gloves with PVC Dots",
+        "nameZh": "安全手套 / 防滑针织手套 / 点珠劳保手套",
+        "categoryId": "safety-equipment",
+        "description": "Găng tay sợi dệt kim co giãn, lòng bàn tay phủ hạt nhựa PVC chống trơn trượt, chống trầy xước và mài mòn nhẹ khi bốc xếp, cầm nắm vật liệu.",
+        "features": [
+            "Công dụng bảo vệ bàn tay: Giảm thiểu tối đa các chấn thương cơ học trực tiếp như trầy xước, rách da, hoặc bị các vật nhọn nhẹ đâm xuyên khi thao tác bốc xếp, bê vác vật liệu trong công trường, nhà xưởng.",
+            "Chức năng chống trơn trượt: Lớp phủ các hạt nhựa PVC đậm đặc ở lòng bàn tay và các ngón tay giúp tăng ma sát, tạo độ bám dính chắc chắn, hỗ trợ cầm nắm công cụ, vật liệu an toàn hơn, ngay cả trong điều kiện ẩm ướt nhẹ.",
+            "Công dụng tăng hiệu suất làm việc: Thiết kế co giãn, ôm sát bàn tay giúp người lao động thao tác linh hoạt, chính xác, đồng thời chất liệu sợi thoáng khí ở lưng tay giúp giảm mồ hôi, tạo sự thoải mái khi sử dụng lâu dài.",
+            "Chức năng chống cắt và mài mòn nhẹ: Tăng tuổi thọ của găng tay khi thường xuyên tiếp xúc với các bề mặt nhám, thô ráp hoặc các cạnh sắc mỏng của tôn, dây thép."
+        ],
+        "featuresEn": [
+            "Hand Protection Application: Minimizes the risk of physical hand injuries, including abrasions, lacerations, and minor punctures during material handling in construction sites and industrial workshops.",
+            "Anti-Slip Function: The concentrated PVC dots on the palm and fingers provide superior friction, enhancing grip strength for secure handling of tools and objects, even in slightly damp conditions.",
+            "Performance Enhancement Application: The flexible, knitted structure offers a snug, ergonomic fit for unrestricted movement and precision, while the breathable back design reduces perspiration for continuous wear comfort.",
+            "Abrasion and Light Cut Resistance Function: Protects the hands against constant contact with rough, abrasive surfaces and supports against minor sharp edges of metal sheets or wires."
+        ],
+        "image": "images/products/gang-tay-bao-ho-det-kim.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "phich-cam-o-cam-cee",
+        "name": "Phích cắm và ổ cắm công nghiệp CEE",
+        "nameEn": "CEE Industrial Plugs and Sockets",
+        "nameZh": "CEE工业插头和插座",
+        "categoryId": "electrical-equipment",
+        "description": "Cấp nguồn công suất lớn cho máy móc, công trường, nhà xưởng; dòng 16A/32A/63A, điện áp 220V/380V chuẩn IEC 60309, chống nước bụi IP44/IP67.",
+        "features": [
+            "Công dụng kết nối nguồn điện: Cung cấp nguồn điện an toàn, ổn định với công suất cao cho các thiết bị điện, máy móc công nghiệp, công trường xây dựng, nhà xưởng và tủ điện.",
+            "Chức năng truyền tải hiệu suất cao: Hỗ trợ các mức dòng điện đa dạng (16A, 32A, 63A) và điện áp khác nhau (220V, 380V) chuẩn IEC 60309.",
+            "Chức năng bảo vệ an toàn & chống môi trường: Thiết kế chống nước, chống bụi bẩn (tiêu chuẩn IP44/IP67) và làm từ vật liệu chống va đập, chống cháy, giúp đảm bảo an toàn tuyệt đối khi vận hành trong điều kiện khắc nghiệt.",
+            "Chức năng lắp đặt linh hoạt: Có nhiều kiểu dáng cấu hình (3 chân, 4 chân, 5 chân) và các dạng lắp đặt khác nhau (gắn tường, gắn bảng, di động) để phù hợp với mọi nhu cầu kết nối."
+        ],
+        "featuresEn": [
+            "Power Connection Application: Provides safe, stable, high-capacity power supplies for heavy electrical equipment, industrial machinery, construction sites, workshops, and electrical panels.",
+            "High-Performance Transmission Function: Supports various current ratings (16A, 32A, 63A) and voltage options (220V, 380V) complying with IEC 60309 standards.",
+            "Safety Protection & Environmental Resistance Function: Features water and dust resistance (IP44/IP67 standards), impact-resistant, and flame-retardant materials to ensure absolute safety under harsh working conditions.",
+            "Flexible Installation Function: Available in diverse pin configurations (3-pin, 4-pin, 5-pin) and mounting styles (surface-mounted, panel-mounted, mobile) to suit various connection setups."
+        ],
+        "image": "images/products/phich-cam-o-cam-cee.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "kim-tuot-day-tu-dong",
+        "name": "Kìm tuốt dây điện tự động",
+        "nameEn": "Automatic Wire Stripper",
+        "nameZh": "自动剥线钳",
+        "categoryId": "hand-tools",
+        "description": "Tự điều chỉnh theo đường kính dây để tuốt vỏ cách điện không làm đứt lõi đồng; tích hợp lưỡi cắt dây và ngàm bấm đầu cốt.",
+        "features": [
+            "Tuốt vỏ dây điện tự động: Tự động điều chỉnh kích thước theo đường kính dây điện, giúp bóc tách lớp vỏ cách điện nhanh chóng mà không làm đứt lõi đồng bên trong.",
+            "Cắt dây điện: Tích hợp lưỡi cắt sắc bén giúp cắt đứt các loại dây điện cỡ nhỏ và vừa một cách gọn gàng.",
+            "Bấm đầu cốt (Crimp terminals): Hỗ trợ ép/bấm các loại đầu cốt dây điện thông dụng trong ngành điện - điện tử.",
+            "Tiết kiệm thời gian & công sức: Cơ chế lò xo trợ lực và tay cầm chống trượt giúp thao tác liên tục mượt mà, giảm mỏi tay cho thợ kỹ thuật."
+        ],
+        "featuresEn": [
+            "Automatic Wire Stripping: Automatically adjusts to the wire size to strip insulation cleanly without damaging the inner copper conductors.",
+            "Wire Cutting: Integrated sharp cutting blades allow quick and clean cutting of small to medium-gauge wires.",
+            "Terminal Crimping: Designed with crimping jaws to secure insulated and non-insulated wire terminals/connectors.",
+            "Effort & Time Saving: Features a spring-loaded mechanism and ergonomic anti-slip grip for continuous, effortless operation."
+        ],
+        "image": "images/products/kim-tuot-day-tu-dong.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "kim-cat-goc-da-nang",
+        "name": "Kìm cắt góc đa năng / Kìm cắt phào nẹp góc",
+        "nameEn": "Multi-Angle Miter Shear / Multi-Purpose Angle Cutter",
+        "nameZh": "多功能角度剪 / 斜角剪",
+        "categoryId": "hand-tools",
+        "description": "Cắt phào chỉ gỗ, nẹp nhựa, ống gen điện theo góc 45°–135° chính xác, không cần máy cưa cồng kềnh với vật liệu nhỏ.",
+        "features": [
+            "Công dụng cắt góc chính xác: Chuyên dụng để cắt phào chỉ gỗ, nẹp nhựa PVC, ống nhựa mềm, ống gen điện và các vật liệu mỏng với độ chính xác cao theo các góc tùy chỉnh.",
+            "Chức năng điều chỉnh góc cắt linh hoạt: Tích hợp thước đo độ trên mặt đế từ 45 đến 135 độ, cho phép người dùng dễ dàng căn chỉnh góc cắt khít tuyệt đối cho các mối nối góc vuông hoặc góc chéo.",
+            "Công dụng tối ưu hóa thi công: Giúp thợ mộc, thợ lắp đặt điện nước và nội thất hoàn thành các đường cắt gọn gàng, nhanh chóng mà không cần dùng đến máy cưa cồng kềnh đối với các vật liệu nhỏ.",
+            "Chức năng lực cắt mạnh mẽ: Thiết kế lưỡi dao thép sắc bén kết hợp đòn bẩy tay cầm bọc nhựa chống trượt giúp trợ lực, tạo lực cắt dứt khoát và giảm mỏi tay khi thao tác liên tục."
+        ],
+        "featuresEn": [
+            "Precision Cutting Application: Specialized for cutting wooden moldings, PVC trims, flexible hoses, wire trunking, and thin materials with high accuracy at adjustable angles.",
+            "Flexible Angle Adjustment Function: Equipped with an integrated angle gauge on the base ranging from 45 to 135 degrees, allowing users to easily align precise miter joints for corners.",
+            "Workflow Optimization Application: Enables carpenters, electricians, and interior installers to make clean, fast cuts without needing bulky saws for small materials.",
+            "Powerful Cutting Function: Features a sharp steel blade combined with an ergonomic, anti-slip coated handle to leverage cutting force, ensuring clean cuts and reducing hand fatigue during continuous use."
+        ],
+        "image": "images/products/kim-cat-goc-da-nang.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "kim-cat-cap-bam-cos",
+        "name": "Kìm cắt cáp cộng lực / Kìm bấm cos thủy lực cầm tay",
+        "nameEn": "Bolt Cutter / Heavy-Duty Cable Cutter & Terminal Crimping Pliers",
+        "nameZh": "强力断线钳 / 端子压接钳",
+        "categoryId": "hand-tools",
+        "description": "Cắt xích sắt, cáp thép, lưới thép dứt khoát; kìm bấm cos ép chặt đầu cos đồng/nhôm vào cáp điện. Khung thép hợp kim, đòn bẩy kép trợ lực.",
+        "features": [
+            "Công dụng cắt vật liệu cứng: Chuyên dùng để cắt các loại dây xích sắt, cáp thép, lưới thép hoặc thanh kim loại nhỏ một cách nhanh chóng và dứt khoát tại các công trường, nhà xưởng.",
+            "Chức năng ép đầu cos điện: Kìm bấm cos hỗ trợ kết nối chặt chẽ các đầu cos đồng/nhôm vào dây cáp điện, đảm bảo tiếp xúc điện an toàn, ổn định trong thi công hệ thống điện và tủ điện.",
+            "Công dụng tối ưu hóa lực bấm: Cơ cấu đòn bẩy kép thông minh kết hợp tay cầm bọc nhựa chống trượt giúp người dùng gia tăng lực ép tối đa, giảm thiểu mỏi tay khi thao tác liên tục.",
+            "Chức năng chịu lực & độ bền cao: Khung thép hợp kim tôi luyện chắc chắn, chống biến dạng dưới lực tác động lớn, mang lại tuổi thọ bền bỉ trong môi trường kỹ thuật khắc nghiệt."
+        ],
+        "featuresEn": [
+            "Heavy-Duty Cutting Application: Specialized for fast and clean cutting of iron chains, steel cables, wire meshes, or small metal rods in construction sites and workshops.",
+            "Terminal Crimping Function: The crimping pliers securely attach electrical copper/aluminum terminals to cables, ensuring stable and safe electrical connections in electrical panels and wiring systems.",
+            "Force Multiplication Application: Intelligent double-lever mechanisms combined with anti-slip rubber-coated handles maximize leverage and reduce hand fatigue during intensive use.",
+            "High Durability & Strength Function: Forged from high-strength alloy steel to resist deformation under heavy pressure, ensuring a long operational lifespan in harsh technical environments."
+        ],
+        "image": "images/products/kim-cat-cap-bam-cos.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "thuoc-do-do-day",
+        "name": "Thước đo độ dày cơ khí (đồng hồ đo độ dày)",
+        "nameEn": "Dial Thickness Gauge / Thickness Measuring Gauge",
+        "nameZh": "厚度计 / 指针式厚度表",
+        "categoryId": "measuring-tools",
+        "description": "Đo độ dày tấm thép, nhôm, giấy, màng nhựa, da, vải với độ chính xác 0.1mm; dải đo 0-10mm và 0-20mm, đầu đo nén lò xo kẹp giữ ổn định.",
+        "features": [
+            "Công dụng đo độ dày chính xác: Chuyên dùng để đo độ dày của các loại vật liệu dạng tấm, mỏng như sắt, thép, nhôm, giấy, màng nhựa, da, vải hoặc các chi tiết cơ khí nhỏ.",
+            "Chức năng hiển thị sai số nhỏ: Mặt đồng hồ cơ khí tích hợp vạch chia rõ ràng, cho phép đọc thông số độ dày nhanh chóng với độ chính xác lên đến 0.1mm.",
+            "Công dụng thao tác đo linh hoạt: Cung cấp các dải đo tiêu chuẩn (0-10mm và 0-20mm) phù hợp với nhiều độ dày vật liệu khác nhau trong kiểm tra chất lượng (QC) và gia công cơ khí.",
+            "Chức năng kẹp giữ ổn định: Cơ cấu đầu đo nén lò xo giúp kẹp giữ vật liệu chắc chắn, đảm bảo lực đo đồng nhất và tránh làm biến dạng bề mặt sản phẩm khi kiểm tra."
+        ],
+        "featuresEn": [
+            "Precision Thickness Measurement Application: Specialized for measuring the thickness of sheet and thin materials such as steel, aluminum, paper, plastic films, leather, fabrics, or small mechanical parts.",
+            "Fine Precision Display Function: Features a clear dial face with fine graduations, enabling quick and accurate reading of thickness measurements up to 0.1mm accuracy.",
+            "Versatile Measurement Range Application: Provides standard measuring ranges (0-10mm and 0-20mm) suitable for various material dimensions in quality control (QC) and mechanical processing.",
+            "Stable Clamping Function: Equipped with a spring-loaded measuring contact that securely holds the material, ensuring consistent measuring force and preventing surface deformation during inspection."
+        ],
+        "image": "images/products/thuoc-do-do-day.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "thuoc-kep-dien-tu",
+        "name": "Thước kẹp điện tử / Thước cặp kỹ thuật số",
+        "nameEn": "Digital Caliper / Electronic Digital Vernier Caliper",
+        "nameZh": "数显卡尺 / 电子游标卡尺",
+        "categoryId": "measuring-tools",
+        "description": "Đo kích thước ngoài, trong, độ sâu và độ lệch tầng; màn hình LCD hiển thị số, chuyển đổi mm/inch và đặt lại mốc 0 tại bất kỳ vị trí nào.",
+        "features": [
+            "Công dụng đo kích thước chính xác: Chuyên dùng để đo kích thước ngoài (đường kính ngoài, độ dày), kích thước trong (đường kính lỗ), độ sâu và độ lệch tầng của các chi tiết cơ khí, linh kiện mỏng hoặc vật liệu gia công với độ chính xác cao.",
+            "Chức năng hiển thị số điện tử: Màn hình LCD hiển thị kết quả trực tiếp dạng con số rõ ràng, giúp đọc thông số nhanh chóng, tránh sai số do mắt nhìn so với thước kẹp cơ truyền thống.",
+            "Chức năng chuyển đổi đơn vị linh hoạt: Tích hợp nút chuyển đổi đơn vị đo giữa milimét (mm) và inch (in), đáp ứng đa dạng tiêu chuẩn kỹ thuật trong sản xuất và chế tạo.",
+            "Chức năng thiết lập mốc đo (Zero): Cho phép đặt lại vị trí 0 ở bất kỳ điểm nào trên thân thước, hỗ trợ đo độ chênh lệch kích thước hoặc đo so sánh giữa các chi tiết một cách dễ dàng."
+        ],
+        "featuresEn": [
+            "Precision Dimension Measurement Application: Specialized for highly accurate measurements of external dimensions (outer diameter, thickness), internal dimensions (hole diameter), depth, and step distance of mechanical parts and components.",
+            "Digital Display Function: Features an LCD screen that shows direct numerical values clearly, enabling rapid reading and preventing visual parallax errors common in traditional mechanical calipers.",
+            "Unit Conversion Function: Equipped with a toggle button to effortlessly switch between millimeter (mm) and inch (in) units, supporting various technical standards in manufacturing and engineering.",
+            "Zero Setting Function: Allows setting the zero point at any position along the slider, facilitating relative measurements, tolerance checks, and differential dimensioning."
+        ],
+        "image": "images/products/thuoc-kep-dien-tu.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-do-do-nham-be-mat",
+        "name": "Máy đo độ nhám bề mặt điện tử",
+        "nameEn": "Surface Roughness Tester / Portable Digital Roughness Gauge",
+        "nameZh": "表面粗糙度仪 / 便携式粗糙度测定仪",
+        "categoryId": "measuring-tools",
+        "description": "Đầu dò stylus đo độ nhám bề mặt tới cấp micron, hiển thị Ra, Rz, Rq, Rt; lưu dữ liệu và kết nối máy tính/máy in để xuất báo cáo QC/QA.",
+        "features": [
+            "Công dụng kiểm chuẩn bề mặt chính xác: Chuyên dùng để đo và đánh giá độ nhám, độ bằng phẳng của bề mặt chi tiết cơ khí, khuôn mẫu, linh kiện kim loại hoặc vật liệu gia công tinh cơ khí.",
+            "Chức năng cảm biến kim đo độ nhạy cao: Sử dụng đầu đo cảm biến (stylus) lướt trên bề mặt để ghi nhận những vi bất phẳng nhỏ nhất ở cấp độ micron (µm).",
+            "Chức năng hiển thị & Phân tích thông số: Màn hình điện tử hiển thị trực tiếp các chỉ số đo tiêu chuẩn (như Ra, Rz, Rq, Rt), hỗ trợ theo dõi đồ thị biên dạng bề mặt nhanh chóng.",
+            "Công dụng lưu trữ & Kết nối dữ liệu: Thiết kế dạng vali di động nhỏ gọn, cho phép lưu trữ nhiều bộ dữ liệu kiểm tra và kết nối với máy tính/máy in để xuất báo cáo kiểm định chất lượng (QC/QA)."
+        ],
+        "featuresEn": [
+            "Precision Surface Inspection Application: Specialized for measuring and evaluating the surface roughness and micro-profile of mechanical parts, molds, metal components, and precision-machined materials.",
+            "High-Sensitivity Stylus Sensor Function: Utilizes a precision probe stylus that traverses the target surface to detect micro-irregularities down to the micron (µm) scale.",
+            "Parameter Display & Analysis Function: Features a digital screen that directly presents standard parameters (such as Ra, Rz, Rq, Rt) and visualizes surface profiles for rapid analysis.",
+            "Data Storage & Connectivity Application: Compact, portable case design enables storing multiple measurement logs and interfacing with computers or printers for quality assurance (QA/QC) reporting."
+        ],
+        "image": "images/products/may-do-do-nham-be-mat.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-do-do-am-vat-lieu",
+        "name": "Máy đo độ ẩm gỗ và vật liệu xây dựng (kim nén)",
+        "nameEn": "Timber and Building Moisture Meter / Pin-type Moisture Meter",
+        "nameZh": "木材及建筑湿度计 / 针式水份测定仪",
+        "categoryId": "measuring-tools",
+        "description": "Đo độ ẩm tồn dư trong gỗ, thạch cao, bê tông, vữa bằng 2 chân kim; có cổng đầu đo kéo dài và vạch màu DRY/AM/WET dễ đọc.",
+        "features": [
+            "Công dụng kiểm tra độ ẩm vật liệu: Chuyên dùng để đo độ ẩm tồn dư trong gỗ, vách thạch cao, bê tông, vữa và các loại vật liệu xây dựng nhằm phòng tránh ẩm mốc, cong vênh hoặc rạn nứt.",
+            "Chức năng đo chân kim nén: Tích hợp đầu đo 2 chân kim cắm trực tiếp vào bề mặt vật liệu để đo điện trở và quy đổi chính xác ra tỷ lệ phần trăm độ ẩm.",
+            "Chức năng kết nối đầu đo kéo dài: Cung cấp cổng cắm nối cho các loại đầu đo chuyên dụng bên ngoài, hỗ trợ đo sâu bên trong các khối bê tông hoặc mảng tường lớn.",
+            "Chức năng hiển thị vạch màu trực quan: Mặt đồng hồ hiển thị các dải màu phân định rõ mức độ (Thô/Khô - DRY, Trung bình - AM, Ẩm - WET), giúp đánh giá tình trạng vật liệu nhanh chóng."
+        ],
+        "featuresEn": [
+            "Material Moisture Inspection Application: Designed to measure residual moisture content in timber, drywall, concrete, mortar, and building materials to prevent mold, warping, or structural damage.",
+            "Pin-Type Resistance Measurement Function: Utilizes a dual-pin probe inserted directly into material surfaces to detect electrical resistance and accurately convert it to moisture percentage.",
+            "External Heavy-Duty Probe Extension Function: Features a dedicated port for auxiliary external probes, allowing deep-wall and deep-concrete slab moisture testing.",
+            "Color-Coded Visual Indicator Function: Equipped with an analog meter showcasing intuitive color bands (DRY, AM, WET) for rapid risk assessment and instant material diagnostic readings."
+        ],
+        "image": "images/products/may-do-do-am-vat-lieu.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "bo-may-khoan-pin-72v",
+        "name": "Bộ máy khoan pin cầm tay 72V",
+        "nameEn": "Cordless Drill Driver Kit 72V / Rechargeable Power Drill Set",
+        "nameZh": "充电式电钻套装 / 无绳电动起子机",
+        "categoryId": "power-tools",
+        "description": "Khoan gỗ, kim loại mỏng, nhựa và bắt/tháo vít; điều chỉnh lực siết nhiều cấp, đảo chiều, pin Lithium-ion kèm hộp phụ kiện đầy đủ.",
+        "features": [
+            "Công dụng khoan & vặn vít đa năng: Chuyên dùng để khoan lỗ trên các bề mặt gỗ, kim loại mỏng, nhựa, tường gạch mỏng và siết/mở các loại ốc vít, bu-lông trong gia đình cũng như công trình cơ khí.",
+            "Chức năng điều chỉnh lực siết & tốc độ: Tích hợp vòng chỉnh lực siết (torque settings) nhiều cấp độ giúp tránh làm sờn đầu vít hoặc vỡ bề mặt vật liệu, cùng công tắc đảo chiều và điều tốc vô cấp theo lực bấm tay.",
+            "Công dụng hoạt động linh hoạt dùng Pin Lithium-ion: Cho phép làm việc cơ động ở mọi khoảng không gian, góc hẹp hoặc trên cao mà không lo vướng dây điện; đi kèm pin dự phòng và sạc nhanh tiện lợi.",
+            "Chức năng trang bị phụ kiện toàn diện: Hộp đựng chuyên dụng sắp xếp gọn gàng bộ phụ kiện đi kèm (mũi khoan các kích thước, đầu tua vít, đầu khẩu vặn ốc và dây nối dài mềm xoắn linh hoạt) giúp thao tác ở mọi góc khuất dễ dàng."
+        ],
+        "featuresEn": [
+            "Versatile Drilling & Screwdriving Application: Designed for drilling holes in wood, thin metal, plastic, soft masonry, and for driving or removing screws and bolts in DIY tasks and professional maintenance.",
+            "Torque Adjustment & Variable Speed Function: Features multi-stage torque adjustment rings to prevent over-tightening or damaging materials, alongside a forward/reverse switch and pressure-sensitive speed trigger.",
+            "Cordless Lithium-ion Mobility Application: Powered by rechargeable Lithium-ion batteries, enabling effortless operation in tight spaces, overhead areas, or locations without accessible power outlets.",
+            "Comprehensive Tool Accessories Kit Function: Comes with a heavy-duty carrying case neatly organizing a 24-piece accessory set (drill bits, screwdriver bits, sockets, and a flexible extension shaft) to reach awkward angles."
+        ],
+        "image": "images/products/bo-may-khoan-pin-72v.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-khoan-tu-fm-35a",
+        "name": "Máy khoan từ mini nằm ngang Tsyr Tzun FM-35A",
+        "nameEn": "Tsyr Tzun FM-35A Low Profile Magnetic Core Drill / Portable Mini Horizontal Magnetic Drill",
+        "nameZh": "卧式低位磁力钻 / 便携式迷你磁力钻 FM-35A",
+        "categoryId": "power-tools",
+        "description": "Khoan, khoét lỗ trên kết cấu thép, dầm H/I ở không gian hẹp; đế từ lực hút mạnh bám mọi tư thế, động cơ nằm ngang, bình làm mát mũi khoan.",
+        "features": [
+            "Công dụng khoan lỗ không gian hẹp: Chuyên dùng để khoan khoét lỗ chính xác trên các kết cấu thép, dầm chữ H/I, khung gầm thiết bị, hoặc các vị trí làm việc có chiều cao bị khống chế mà máy khoan đứng thông thường không đưa vào được.",
+            "Chức năng cố định bằng đế từ lực hút mạnh: Tích hợp đế từ tính công suất cao, cho phép máy bám dính chắc chắn trên bề mặt kim loại tấm hoặc dầm thép theo mọi tư thế (khoan ngang, khoan đứng hoặc khoan ngược trần).",
+            "Chức năng thiết kế động cơ nằm ngang (Low-Profile): Cấu trúc động cơ được đặt ngang giúp tối ưu hóa chiều cao thân máy xuống mức tối thiểu, gia tăng độ linh hoạt khi thao tác trong các môi trường chật hẹp.",
+            "Công dụng bôi trơn & làm mát tự động: Trang bị bình chứa dung dịch làm mát gắn liền trên thân, tưới làm mát trực tiếp tâm mũi khoan từ giúp kéo dài tuổi thọ mũi khoan và đảm bảo đường cắt nhẵn mịn."
+        ],
+        "featuresEn": [
+            "Confined Space Drilling Application: Specifically engineered for accurate hole drilling and coring on steel structures, H/I-beams, and equipment frames where vertical overhead space is strictly limited.",
+            "Heavy-Duty Magnetic Base Function: Features a powerful electromagnetic base that securely anchors the machine to ferrous surfaces in all operational orientations (horizontal, vertical, or inverted overhead).",
+            "Low-Profile Horizontal Motor Function: Utilizes a compact horizontal motor configuration to dramatically minimize total machine height, maximizing accessibility in tight structural gaps.",
+            "Automatic Cooling & Lubrication Application: Integrated with an overhead coolant reservoir system that delivers liquid lubrication directly through the cutter core, extending tool life and ensuring clean cutting performance."
+        ],
+        "image": "images/products/may-khoan-tu-fm-35a.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-khoan-dong-luc-nikawa-nk-id38",
+        "name": "Máy khoan động lực NIKAWA NK-ID38",
+        "nameEn": "NIKAWA NK-ID38 Impact Drill",
+        "nameZh": "尼卡瓦 NK-ID38 冲击电钻",
+        "categoryId": "power-tools",
+        "description": "Khoan lỗ trên gỗ, kim loại và tường, có chế độ khoan động lực cho bề mặt cứng; tay cầm phụ giúp thao tác chắc chắn.",
+        "features": [
+            "Máy khoan động lực NIKAWA NK-ID38 là thiết bị điện cầm tay chuyên dùng để khoan lỗ trên các vật liệu như gỗ, kim loại và tường (tùy loại mũi khoan và chế độ hoạt động). Sản phẩm phù hợp cho công việc sửa chữa, lắp đặt và thi công trong gia đình, xưởng cơ khí và công trình xây dựng.",
+            "Khoan lỗ trên bề mặt gỗ, kim loại và tường.",
+            "Hỗ trợ khoan động lực để xử lý các bề mặt cứng phù hợp.",
+            "Hỗ trợ lắp đặt thiết bị, bắt vít khi sử dụng phụ kiện tương thích.",
+            "Phục vụ sửa chữa và bảo trì các thiết bị, đồ dùng.",
+            "Tay cầm phụ hỗ trợ thao tác chắc chắn và ổn định hơn."
+        ],
+        "featuresEn": [
+            "The NIKAWA NK-ID38 Impact Drill is a handheld power tool designed for drilling holes in materials such as wood, metal, and masonry (depending on the drill bit and operating mode). It is suitable for household repairs, installation work, workshop tasks, and construction applications.",
+            "Drills holes in wood, metal, and masonry.",
+            "Provides impact drilling for suitable hard surfaces.",
+            "Supports installation and screw-driving tasks when compatible accessories are used.",
+            "Suitable for repair and maintenance work.",
+            "Features an auxiliary handle for improved grip, control, and stability"
+        ],
+        "image": "images/products/may-khoan-dong-luc-nikawa-nk-id38.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "bo-may-khoan-pin-toyama",
+        "name": "Bộ máy khoan pin không dây TOYAMA (động cơ không chổi than)",
+        "nameEn": "TOYAMA Cordless Brushless Drill Kit",
+        "nameZh": "TOYAMA 无刷锂电充电钻套装",
+        "categoryId": "power-tools",
+        "description": "Khoan và siết/tháo vít không dây với pin Lithium-ion; động cơ không chổi than bền bỉ, vòng chỉnh lực siết, kèm hộp đựng, pin và sạc.",
+        "features": [
+            "Bộ máy khoan pin TOYAMA là thiết bị cầm tay chuyên dụng, sử dụng pin sạc Lithium-ion, phù hợp cho các công việc khoan, lắp đặt, sửa chữa và thi công. Thiết kế không dây giúp người dùng dễ dàng di chuyển và thao tác tại nhiều vị trí khác nhau.",
+            "Khoan lỗ trên các vật liệu như gỗ, kim loại và một số bề mặt phù hợp.",
+            "Hỗ trợ siết và tháo vít trong quá trình lắp ráp, sửa chữa.",
+            "Động cơ không chổi than giúp giảm ma sát, hạn chế hao mòn và nâng cao hiệu suất hoạt động.",
+            "Có vòng điều chỉnh lực siết, hỗ trợ kiểm soát lực khi làm việc.",
+            "Sử dụng pin sạc, thuận tiện khi làm việc ở những nơi không có nguồn điện trực tiếp.",
+            "Bộ sản phẩm đi kèm hộp đựng, pin và bộ sạc, thuận tiện bảo quản và di chuyển."
+        ],
+        "featuresEn": [
+            "The TOYAMA Cordless Brushless Drill Kit is a rechargeable power tool designed for drilling, screw fastening, installation, and repair tasks. Its cordless design provides flexibility and convenience for use in different working environments.",
+            "Drills holes in materials such as wood, metal, and other suitable surfaces.",
+            "Tightens and loosens screws for assembly and repair work.",
+            "Brushless motor technology helps reduce friction and wear while improving operating efficiency.",
+            "Adjustable torque settings provide better control during operation.",
+            "Rechargeable lithium-ion batteries allow convenient cordless operation.",
+            "Includes a carrying case, batteries, and charger for easy storage and transportation."
+        ],
+        "image": "images/products/bo-may-khoan-pin-toyama.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "kim-bam-cuc-sat",
+        "name": "Kìm bấm cúc sắt / Kìm dập cúc 5 chấu",
+        "nameEn": "Metal Snap Button Fastener Pliers / Ring Snap Pliers",
+        "nameZh": "金属扣压钳 / 五爪扣安装钳",
+        "categoryId": "hand-tools",
+        "description": "Dập cúc bấm 5 chấu, khuy kim loại lên áo, túi, khẩu trang vải; khuôn dập mềm định vị chính xác, lò xo trợ lực, không cần đục lỗ trước.",
+        "features": [
+            "Công dụng dập cúc kim loại tiện lợi: Chuyên dùng để dập cúc bấm 5 chấu (cúc vành khuyên) hoặc khuy kim loại lên áo thun, đồ sơ sinh, khẩu trang vải, túi xách và các đồ thủ công DIY tại nhà.",
+            "Chức năng định vị chính xác: Thiết kế khuôn dập silicon/nhựa mềm ở đầu kìm giúp giữ cố định mặt cúc và vành chấu, tránh làm xô lệch hoặc méo cúc khi bấm.",
+            "Chức năng lò xo trợ lực: Cơ cấu lò xo đẩy linh hoạt giúp thao tác bấm nhẹ nhàng, không tốn nhiều sức và đảm bảo các chấu sắt xuyên qua vải, bám chặt vào nhau.",
+            "Công dụng không cần đục lỗ trước: Đầu dập chấu nhọn tự xuyên qua thớ vải mà không làm xơ hay đứt chỉ, giữ cho bề mặt sản phẩm thẩm mỹ."
+        ],
+        "featuresEn": [
+            "Convenient Metal Snap Fastening Application: Specifically designed to attach 5-prong metal ring snaps onto t-shirts, baby clothes, cloth masks, bags, and DIY craft projects at home.",
+            "Precise Positioning Function: Features soft silicone/plastic upper and lower mold cushions to hold the snap cap and socket securely in place, preventing slipping or distortion during pressing.",
+            "Spring-Loaded Force Reduction Function: Equipped with an ergonomic return spring for smooth, effortless operation, ensuring the metal prongs pierce the fabric cleanly and lock tightly together.",
+            "Pre-Punch-Free Application: The sharp prongs naturally penetrate fabric fibers without requiring prior hole punching or damaging thread structures, preserving fabric integrity."
+        ],
+        "image": "images/products/kim-bam-cuc-sat.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-can-muc-laser-3-tia",
+        "name": "Máy cân mực laser 3 tia xanh",
+        "nameEn": "3-Line Green Beam Laser Level / Cross Line Laser Level",
+        "nameZh": "3线绿光激光水准仪 / 3线绿光投线仪",
+        "categoryId": "measuring-tools",
+        "description": "3 tia laser xanh (2 dọc, 1 ngang) sáng rõ, tự cân bằng và cảnh báo khi nghiêng quá giới hạn; đế xoay 360° tinh chỉnh, dùng cho ốp lát, nội thất.",
+        "features": [
+            "Công dụng định vị & dóng hàng chính xác: Chuyên dùng trong thi công nội thất, ốp lát gạch sàn/tường, lắp đặt trần thạch cao, treo kệ tủ, công trình điện nước và trang trí hoàn thiện nhằm đảm bảo đường dóng thẳng tuyệt đối.",
+            "Chức năng chiếu tia laser xanh độ sáng cao: Trang bị 3 tia laser màu xanh (2 tia dọc, 1 tia ngang) cho khả năng hiển thị rõ nét ngoài trời hoặc trong môi trường ánh sáng mạnh gấp nhiều lần so với tia đỏ.",
+            "Chức năng tự cân bằng & cảnh báo vượt tầm: Tích hợp hệ thống con lắc tự động cân bằng trong phạm vi cho phép và phát hiệu lệnh cảnh báo (nhấp nháy/âm thanh) khi máy bị nghiêng vượt quá góc tự cân bằng.",
+            "Công dụng tinh chỉnh xoay 360 độ: Chân máy tích hợp các núm xoay vi chỉnh 360 độ và chân đế tăng giảm độ cao linh hoạt, giúp điều chỉnh tia laser vào đúng vị trí đánh dấu một cách nhanh chóng và chính xác."
+        ],
+        "featuresEn": [
+            "Precision Alignment & Levelling Application: Essential for interior finishing, wall/floor tiling, drywall installation, cabinetry alignment, and MEP (mechanical, electrical, plumbing) installations to ensure absolute level accuracy.",
+            "High-Visibility Green Beam Function: Projects 3 high-intensity green laser lines (2 vertical lines, 1 horizontal line) offering superior visibility over long distances and bright work conditions compared to standard red lasers.",
+            "Self-Levelling & Out-of-Level Alarm Function: Features an automatic pendulum self-levelling system that alerts the user (flashing lines/sound warning) whenever the device is tilted beyond its levelling range.",
+            "360-Degree Micro-Adjustment Application: Equipped with a 360-degree rotating base and adjustable levelling legs, enabling effortless fine-tuning to pinpoint exact target marks on site."
+        ],
+        "image": "images/products/may-can-muc-laser-3-tia.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "bo-tua-vit-cach-dien-1000v",
+        "name": "Bộ tua vít cách điện 1000V thợ điện (7 chi tiết, có bút thử điện)",
+        "nameEn": "7-Piece 1000V Insulated Screwdriver Set with Voltage Tester",
+        "nameZh": "7件套绝缘螺丝刀套装 / 电工绝缘改锥组",
+        "categoryId": "hand-tools",
+        "description": "Tua vít bọc cách điện VDE 1000V, đầu vít từ tính bake và dẹp nhiều cỡ, kèm bút thử điện; dùng sửa chữa tủ điện, ổ cắm an toàn.",
+        "features": [
+            "Công dụng bảo vệ an toàn ngành điện: Chuyên dùng trong thi công, sửa chữa tủ điện, ổ cắm và thiết bị gia dụng có điện áp trực tiếp lên đến 1000V mà vẫn đảm bảo an toàn tuyệt đối cho kỹ thuật viên.",
+            "Chức năng bọc cách điện VDE/1000V: Thân tua vít bọc lớp nhựa chịu nhiệt và chống phóng điện cao cấp, hạn chế tối đa nguy cơ chập cháy hoặc giật điện khi thao tác trong không gian tủ điện chật hẹp.",
+            "Chức năng thử điện nhanh: Đi kèm bút thử điện chuyên dụng giúp kiểm tra nguồn điện an toàn trước khi tiến hành vặn ốc hay tháo lắp thiết bị.",
+            "Công dụng đầu vít từ tính & đa dạng kích thước: Gồm các đầu vít Bake (+) và dẹp (-) nhiều kích cỡ thông dụng, được xử lý từ tính giúp giữ chặt ốc vít không bị rơi rớt khi làm việc trên cao."
+        ],
+        "featuresEn": [
+            "Electrical Safety Application: Specifically engineered for installation, maintenance, and repair of live electrical panels, outlets, and machinery up to 1000V, ensuring maximum user protection.",
+            "1000V VDE Insulated Function: Each screwdriver shank is coated with heavy-duty insulating polymer to prevent electrical arching and accidental shock during tight space operations.",
+            "Voltage Testing Function: Includes a dedicated voltage tester pen for instant and safe current detection prior to starting mechanical repair work.",
+            "Magnetic Tip & Multi-Size Application: Offers a comprehensive range of slotted (-) and Phillips (+) tip sizes with magnetic tips that securely retain small fasteners during overhead or deep-set installation."
+        ],
+        "image": "images/products/bo-tua-vit-cach-dien-1000v.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "cau-chi-nh2-100a",
+        "name": "Cầu chì công nghiệp hạ thế / Cầu chì dao NH2 100A 500V",
+        "nameEn": "Low Voltage NH Fuse Link / Industrial Blade Fuse NH2 100A 500V gL/gG",
+        "nameZh": "低压刀型熔断器 / NH2 100A 工业熔断器熔芯",
+        "categoryId": "electrical-equipment",
+        "description": "Bảo vệ ngắn mạch và quá tải cho tủ phân phối, trạm biến áp; khả năng cắt 120kA ở 500VAC, có nút báo đứt màu đỏ, tiếp điểm mạ bạc.",
+        "features": [
+            "Công dụng bảo vệ ngắn mạch & quá tải: Chuyên dùng trong các tủ điện phân phối công nghiệp, trạm biến áp, máy móc công suất lớn để ngắt mạch nhanh chóng khi xảy ra sự cố quá tải hoặc ngắn mạch.",
+            "Chức năng cắt dòng sự cố cao (120kA): Khả năng cắt dòng ngắn mạch lên đến 120kA ở điện áp 500VAC, ngăn ngừa nguy cơ cháy nổ nguy hiểm cho toàn bộ hệ thống điện.",
+            "Chức năng hiển thị trạng thái (Indicator): Tích hợp nút báo màu đỏ phía trước mặt cầu chì, giúp kỹ thuật viên dễ dàng nhận biết trạng thái cầu chì đã bị nổ/đứt để tiến hành thay thế kịp thời.",
+            "Công dụng kết nối chắc chắn (Đế dập mạ bạc): Thiết kế dạng dao cắm (blade fuse) chuẩn NH2 bằng hợp kim mạ bạc, giúp giảm điện trở tiếp xúc, nâng cao khả năng dẫn điện và chống ăn mòn."
+        ],
+        "featuresEn": [
+            "Short-Circuit & Overload Protection Application: Designed for low-voltage industrial distribution boards, substations, and heavy machinery to rapidly interrupt electrical circuits during overload or short-circuit faults.",
+            "High Breaking Capacity Function (120kA): Engineered with a high breaking capacity of up to 120kA at 500VAC, effectively preventing catastrophic equipment damage and fire hazards.",
+            "Visual Status Indicator Function: Features a top/front red pop-up indicator that provides immediate visual confirmation when the fuse link has blown and requires replacement.",
+            "Silver-Plated Blade Contact Application: Utilizes standard NH2 silver-plated copper contacts to ensure low contact resistance, optimal electrical conductivity, and long-term corrosion resistance."
+        ],
+        "image": "images/products/cau-chi-nh2-100a.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "den-led-highbay-nha-xuong",
+        "name": "Đèn LED nhà xưởng / Đèn Highbay LED (100W - 250W)",
+        "nameEn": "Industrial High Bay LED Light / Warehouse High Bay LED Reflector Lamp",
+        "nameZh": "工矿灯 / 车间高天棚 LED 灯",
+        "categoryId": "lighting",
+        "description": "Chiếu sáng nhà xưởng, kho hàng trần cao 6–12m; chao phản quang gom sáng, tản nhiệt nhôm đúc, chuẩn IP65, tiết kiệm điện so với đèn cao áp.",
+        "features": [
+            "Công dụng chiếu sáng diện tích lớn: Chuyên dùng để chiếu sáng cho diện tích rộng trong các nhà máy sản xuất, kho vận, xưởng cơ khí, nhà thi đấu thể thao hoặc kho hàng có trần cao từ 6m đến 12m.",
+            "Chức năng chao phản quang gom sáng: Trang bị chao đèn kim loại dập vân kim cương giúp tập trung luồng ánh sáng, giảm thất thoát quang năng và tăng cường độ chiếu sáng xuống khu vực làm việc bên dưới.",
+            "Chức năng tản nhiệt nhôm đúc chịu lực: Thân đèn cấu tạo từ các cánh tản nhiệt nhôm đúc nguyên khối công suất cao, giúp tản nhiệt nhanh chóng, giữ nhiệt độ hoạt động ổn định và kéo dài tuổi thọ chip LED.",
+            "Công dụng tiết kiệm điện & vận hành bền bỉ: Đạt chuẩn chống bụi chống nước công nghiệp (IP65), giúp đèn hoạt động ổn định trong môi trường nhiều bụi bẩn và độ ẩm cao, đồng thời tiết kiệm điện năng vượt trội so với đèn cao áp truyền thống."
+        ],
+        "featuresEn": [
+            "Large-Area Industrial Lighting Application: Designed for high-ceiling illumination in manufacturing plants, warehouses, logistics hubs, machine workshops, and sports arenas with installation heights ranging from 6 to 12 meters.",
+            "Diamond-Reflector Light Focusing Function: Features a textured aluminum reflector cone that maximizes luminous efficacy, reduces light spill, and directs uniform illumination straight onto work zones.",
+            "Heavy-Duty Die-Cast Aluminum Heat Dissipation Function: Built with a high-grade vertical aluminum fin heatsink that rapidly dissipates operational heat, extending chip longevity and maintaining luminous stability.",
+            "Energy-Efficient & Harsh Environment Application: Engineered with robust IP65 dust and moisture resistance for continuous performance in dusty or humid factory environments while offering up to 70% energy savings over traditional metal halide lamps."
+        ],
+        "image": "images/products/den-led-highbay-nha-xuong.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "den-pha-led-ip66",
+        "name": "Đèn LED pha ngoài trời / Đèn pha LED cao áp IP66 (100W - 300W)",
+        "nameEn": "High-Power Outdoor LED Flood Light / Heavy-Duty Waterproof LED Floodlight (IP66)",
+        "nameZh": "高功率 LED 投光灯 / 户外防水 LED 投射灯",
+        "categoryId": "lighting",
+        "description": "Chiếu sáng biển quảng cáo, sân bãi, công trường, mặt tiền nhà xưởng; chống nước bụi IP66, kính cường lực, quai chữ U chỉnh góc chiếu.",
+        "features": [
+            "Công dụng chiếu sáng diện rộng ngoài trời: Chuyên dùng cho chiếu sáng bảng hiệu quảng cáo, sân thể thao, bãi đỗ xe, công trường xây dựng, mặt tiền tòa nhà và khuôn viên nhà xưởng.",
+            "Chức năng chống nước & bụi chuẩn IP66: Thiết kế vỏ bảo vệ kín khít với gioăng cao su chịu nhiệt, đảm bảo đèn hoạt động bền bỉ dưới thời tiết mưa bão, bụi bẩn ngoài trời.",
+            "Chức năng mặt kính cường lực & chip LED COB/SMD: Trang bị mặt kính cường lực chống va đập cùng các mô-đun chip LED công suất cao, tối ưu hóa khả năng truyền sáng và cho góc chiếu xa rộng.",
+            "Công dụng tản nhiệt nhôm đúc & điều chỉnh góc chiếu: Thân đèn bằng nhôm đúc sơn tĩnh điện với các rãnh tản nhiệt phía sau giúp kéo dài tuổi thọ chip LED, kết hợp quai đeo chữ U dễ dàng xoay chỉnh góc chiếu sáng theo yêu cầu."
+        ],
+        "featuresEn": [
+            "Wide-Area Outdoor Illumination Application: Engineered for high-intensity lighting across outdoor billboards, sports courts, parking lots, construction sites, building facades, and industrial perimeters.",
+            "IP66 Ingress Protection Function: Sealed with high-grade silicone gaskets and weather-resistant housing to ensure reliable performance against heavy rain, dust, and harsh atmospheric conditions.",
+            "Impact-Resistant Tempered Glass & High-Lumen Chip Function: Combines toughened tempered glass with high-efficiency COB/SMD LED arrays to maximize light output, transparency, and wide beam distribution.",
+            "Die-Cast Aluminum Heat Dissipation Application: Features heavy-duty rear aluminum cooling fins for rapid thermal management, paired with a 180-degree adjustable U-bracket for flexible beam targeting on site."
+        ],
+        "image": "images/products/den-pha-led-ip66.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "den-led-tich-dien-treo",
+        "name": "Đèn LED tích điện treo móc (đèn búp sạc)",
+        "nameEn": "Rechargeable LED Hanging Light Bulb / Portable Outdoor Camping Light",
+        "nameZh": "充电式手提LED球泡灯 / 露营挂钩应急灯",
+        "categoryId": "lighting",
+        "description": "Đèn sạc USB/Type-C có móc treo, dùng cắm trại, chợ đêm hoặc dự phòng khi mất điện; vỏ ABS chống va đập, ánh sáng dịu không chói.",
+        "features": [
+            "Công dụng chiếu sáng di động & dự phòng: Chuyên dùng để chiếu sáng linh hoạt cho các chuyến cắm trại (camping), bán hàng rong/chợ đêm, thao tác trong khu vực thiếu điện, hoặc làm nguồn sáng dự phòng khi mất điện đột ngột.",
+            "Chức năng tích điện thông qua cổng sạc USB: Tích hợp pin sạc Lithium dung lượng cao, cho phép sạc lại nhanh chóng qua cổng USB/Type-C mà không cần cắm điện trực tiếp khi sử dụng.",
+            "Chức năng móc treo tiện lợi: Trang bị móc treo kim loại/nhựa chắc chắn phía trên đỉnh đèn, giúp dễ dàng treo lên cành cây, khung lều, dây treo hoặc các vị trí trên cao.",
+            "Công dụng nhựa ABS/PC chống va đập: Vỏ bóng đèn làm từ nhựa cao cấp có độ bền cao, chống rơi vỡ tốt và chao nhựa đục giúp phân tán ánh sáng dịu nhẹ, không gây chói mắt."
+        ],
+        "featuresEn": [
+            "Portable & Emergency Lighting Application: Designed for versatile illumination during camping trips, night market stalls, outdoor activities, or as a reliable backup light source during power outages.",
+            "Rechargeable USB Power Function: Equipped with a built-in high-capacity rechargeable Lithium battery that charges conveniently via USB/Type-C ports, eliminating the need for continuous wall outlet connection.",
+            "Integrated Suspension Hook Function: Features a sturdy top-mounted metal/plastic hanging hook, allowing for effortless mounting onto tent poles, tree branches, or elevated overhead wires.",
+            "Impact-Resistant ABS Body & Soft Light Application: Constructed with a durable, shatterproof ABS housing and a frosted PC diffuser dome to deliver high impact resistance and glare-free, uniform light distribution."
+        ],
+        "image": "images/products/den-led-tich-dien-treo.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-cat-sat-ban-355mm",
+        "name": "Máy cắt sắt bàn công nghiệp / Máy cắt kim loại đĩa đá 355mm",
+        "nameEn": "Industrial Cut-Off Saw / Heavy-Duty Abrasive Metal Cut-Off Machine (355mm)",
+        "nameZh": "型材切割机 / 台式金属切割机",
+        "categoryId": "power-tools",
+        "description": "Cắt sắt hộp, thép V, ống thép, kim loại định hình; ê-tô xoay cắt góc 0°–45°, vành chắn thép chống văng tia lửa và mảnh vỡ.",
+        "features": [
+            "Công dụng gia công & cắt định hình: Chuyên dùng trong các xưởng cơ khí, công trình xây dựng và chế tạo kết cấu thép để cắt chính xác các loại sắt hộp, thép vặn, sắt V, ống thép và kim loại định hình.",
+            "Chức năng cắt góc linh hoạt: Tích hợp ê-tô kẹp phôi có khả năng xoay và điều chỉnh góc cắt từ 0° đến 45°, giúp tạo các mối nối góc chuẩn xác cho công tác hàn lắp ráp.",
+            "Chức năng bảo hộ & chống văng bắn: Trang bị vành chắn bảo vệ bằng thép ôm trọn đĩa cắt, giúp ngăn ngừa tia lửa điện và mảnh vỡ đĩa văng ra ngoài trong quá trình thao tác tốc độ cao.",
+            "Công dụng kẹp giữ phôi nhanh: Cơ cấu trục vít ê-tô định vị chắc chắn thanh thép, chống rung lắc và trượt phôi khi lưỡi cắt hạ xuống."
+        ],
+        "featuresEn": [
+            "Metal Fabrication Application: Designed for heavy-duty metal fabrication and construction sites to precisely cut structural steel, square tubing, rebar, angle iron, and metal pipes.",
+            "Mitre Cutting Function: Equipped with an adjustable quick-clamp vise that swivels from 0° to 45°, enabling accurate angular cuts for welding and frame assembly.",
+            "Safety Guard Function: Features a heavy-gauge steel protective spark guard that encloses the abrasive wheel, safely deflecting flying sparks and debris during high-speed cutting.",
+            "Quick-Clamping Mechanism Application: Utilizes a fast-locking screw vise to securely anchor workpieces, preventing movement or vibration during operation."
+        ],
+        "image": "images/products/may-cat-sat-ban-355mm.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-cat-gach-da-cam-tay",
+        "name": "Máy cắt gạch đá cầm tay / Máy cắt bê tông, gạch men DCA",
+        "nameEn": "Portable Marble Cutter / Handheld Tile & Concrete Cutter",
+        "nameZh": "云石机 / 手提式切石机",
+        "categoryId": "power-tools",
+        "description": "Cắt gạch men, đá granite, marble, bê tông; chỉnh độ sâu cắt, vòi nước cắt ướt giảm bụi và làm mát lưỡi kim cương, tay cầm chống trượt.",
+        "features": [
+            "Công dụng cắt vật liệu cứng: Chuyên dùng trong thi công xây dựng và hoàn thiện nội thất để cắt các loại gạch men, đá hoa cương (granite), đá cẩm thạch (marble), gạch gốm, bê tông và tường gạch.",
+            "Chức năng điều chỉnh độ sâu cắt: Cho phép tùy chỉnh nâng/hạ đế máy để cài đặt độ sâu đường cắt chính xác theo chiều dày của tấm vật liệu.",
+            "Chức năng cắt ướt & chống bụi: Tích hợp vòi cấp nước nhỏ trực tiếp vào vị trí lưỡi cắt, giúp làm mát lưỡi kim cương, giảm thiểu bụi mịn phát tán ra môi trường và kéo dài tuổi thọ lưỡi.",
+            "Công dụng thiết kế tay cầm công thái học: Tay cầm bọc cao su chống trượt chắc chắn, kết hợp công tắc giữ phím bấm giúp người thợ làm việc liên tục mà không bị mỏi tay."
+        ],
+        "featuresEn": [
+            "Hard Material Cutting Application: Specially designed for construction and interior decoration to cut ceramic tiles, granite, marble, concrete slabs, and masonry walls.",
+            "Adjustable Cutting Depth Function: Features a flexible baseplate adjustment mechanism to precisely control the cutting depth based on workpiece thickness.",
+            "Wet Cutting & Dust Suppression Function: Equipped with a water supply nozzle feed to cool the diamond blade during operation, significantly reducing ambient dust and extending blade life.",
+            "Ergonomic Handling Application: Built with a non-slip textured handle and a continuous lock-on switch, ensuring secure grip and reducing user fatigue during prolonged operation."
+        ],
+        "image": "images/products/may-cat-gach-da-cam-tay.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-han-que-arc-200",
+        "name": "Máy hàn que cầm tay Phi-an / Máy hàn điện tử mini ARC-200",
+        "categoryId": "power-tools",
+        "description": "Máy hàn que mini cầm tay dùng hàn, nối sắt thép trong sửa chữa gia đình, cơ khí dân dụng, lắp ráp kết cấu nhẹ và thi công lưu động.",
+        "features": [
+            "Công dụng kết nối kim loại: Chuyên dùng để hàn, nối các vật liệu kim loại bằng sắt, thép trong các công việc sửa chữa gia đình, cơ khí dân dụng, lắp ráp kết cấu nhẹ hoặc thi công lưu động."
+        ],
+        "image": "images/products/may-han-que-arc-200.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "may-do-luc-siet-mark-10",
+        "name": "Máy đo lực siết kỹ thuật số Mark-10 / Thiết bị đo mô-men xoắn MMT03-100",
+        "categoryId": "measuring-tools",
+        "description": "Đo và kiểm tra mô-men xoắn của tua-vít, máy vặn ốc, nắp chai và chi tiết cơ khí trong phòng QC, dây chuyền lắp ráp linh kiện.",
+        "features": [
+            "Công dụng kiểm định & hiệu chuẩn lực siết: Chuyên dùng trong các phòng lab QC, dây chuyền sản xuất lắp ráp linh kiện điện tử, cơ khí chính xác để đo và kiểm tra mô-men xoắn của tua-vít, máy vặn ốc, nắp chai hoặc lực vặn xoắn của các bộ phận cơ khí."
+        ],
+        "image": "images/products/may-do-luc-siet-mark-10.jpg",
+        "price": "",
+        "featured": false
+    },
+    {
+        "id": "bang-tan-ptfe",
+        "name": "Băng tan PTFE",
+        "nameEn": "PTFE Thread Seal Tape",
+        "categoryId": "industrial-supplies",
+        "description": "Quấn ren ống để làm kín mối nối, chống rò rỉ nước, khí và chất lỏng; chịu hóa chất, chống ẩm, dùng cho cấp thoát nước và đường ống khí.",
+        "features": [
+            "Băng tan PTFE được sử dụng để quấn quanh các đầu ren ống, giúp làm kín mối nối, hạn chế rò rỉ nước, khí và chất lỏng. Sản phẩm có khả năng chịu hóa chất, chống ẩm, dễ sử dụng và được ứng dụng rộng rãi trong hệ thống cấp thoát nước, đường ống dẫn khí và các công trình công nghiệp, dân dụng."
+        ],
+        "featuresEn": [
+            "PTFE Thread Seal Tape is used to wrap around pipe threads to seal connections and help prevent water, gas, and fluid leakage. It offers chemical and moisture resistance, is easy to use, and is widely applied in plumbing, gas pipelines, and industrial and residential construction systems."
+        ],
+        "image": "images/products/bang-tan-ptfe.jpg",
         "price": "",
         "featured": false
     }

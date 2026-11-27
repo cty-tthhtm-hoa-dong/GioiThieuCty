@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/"><img src="https://img.shields.io/badge/Website-%C4%91ang%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng-2ea44f?style=for-the-badge" alt="Website đang hoạt động"></a>
-  <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html"><img src="https://img.shields.io/badge/S%E1%BA%A3n%20ph%E1%BA%A9m-18-183247?style=for-the-badge" alt="18 sản phẩm"></a>
-  <a href="#bài-viết"><img src="https://img.shields.io/badge/B%C3%A0i%20vi%E1%BA%BFt-7-c58a38?style=for-the-badge" alt="7 bài viết"></a>
+  <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html"><img src="https://img.shields.io/badge/S%E1%BA%A3n%20ph%E1%BA%A9m-46-183247?style=for-the-badge" alt="46 sản phẩm"></a>
+  <a href="#bài-viết"><img src="https://img.shields.io/badge/B%C3%A0i%20vi%E1%BA%BFt-11-c58a38?style=for-the-badge" alt="11 bài viết"></a>
 </p>
 
 <p align="center">
@@ -54,14 +54,37 @@
 | Trang | Đường dẫn | Nội dung |
 |---|---|---|
 | Trang chủ | [`index.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/) | Banner, thông tin doanh nghiệp, nhóm thiết bị bảo hộ, bài viết |
-| Sản phẩm | [`products.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html) | 18 sản phẩm, lọc theo hạng mục và tìm kiếm |
+| Sản phẩm | [`products.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/products.html) | 46 sản phẩm, lọc theo hạng mục và tìm kiếm |
 | Về chúng tôi | [`about.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/about.html) | Giới thiệu doanh nghiệp |
 | Liên hệ | [`contact.html`](https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/contact.html) | Thông tin liên hệ |
-| Bài viết (7 bài) | `bai-viet-*.html` | Mỗi bài một trang riêng, xem danh sách ở mục Bài viết |
+| Bài viết (11 bài) | `bai-viet-*.html` | Mỗi bài một trang riêng, xem danh sách ở mục Bài viết |
 
 ## Sản phẩm
 
-### Dụng cụ đo & kiểm tra (7)
+### Thiết bị bảo hộ lao động (4)
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/bo-thiet-bi-bao-ho-ppe.jpg" width="160" alt="Bộ trang thiết bị bảo hộ lao động cá nhân (PPE)"><br>
+      <sub>Bộ trang thiết bị bảo hộ lao động cá nhân (PPE)</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/mu-bao-ho-lao-dong.jpg" width="160" alt="Mũ bảo hộ lao động / Nón bảo hộ công nghiệp"><br>
+      <sub>Mũ bảo hộ lao động / Nón bảo hộ công nghiệp</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/ao-phan-quang-bao-ho.jpg" width="160" alt="Áo bảo hộ lao động / Áo gi lê phản quang bảo hộ"><br>
+      <sub>Áo bảo hộ lao động / Áo gi lê phản quang bảo hộ</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/gang-tay-bao-ho-det-kim.jpg" width="160" alt="Găng tay bảo hộ lao động / Găng tay sợi dệt kim phủ hạt nhựa"><br>
+      <sub>Găng tay bảo hộ lao động / Găng tay sợi dệt kim phủ hạt nhựa</sub>
+    </td>
+  </tr>
+</table>
+
+### Dụng cụ đo & kiểm tra (13)
 
 <table>
   <tr>
@@ -95,10 +118,38 @@
       <img src="images/products/fiberglass-tape-measure-20m.jpg" width="160" alt="Thước dây sợi thủy tinh 20m (Thước cuộn vải đo khoảng cách)"><br>
       <sub>Thước dây sợi thủy tinh 20m (Thước cuộn vải đo khoảng cách)</sub>
     </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/thuoc-do-do-day.jpg" width="160" alt="Thước đo độ dày cơ khí (đồng hồ đo độ dày)"><br>
+      <sub>Thước đo độ dày cơ khí (đồng hồ đo độ dày)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/thuoc-kep-dien-tu.jpg" width="160" alt="Thước kẹp điện tử / Thước cặp kỹ thuật số"><br>
+      <sub>Thước kẹp điện tử / Thước cặp kỹ thuật số</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-do-do-nham-be-mat.jpg" width="160" alt="Máy đo độ nhám bề mặt điện tử"><br>
+      <sub>Máy đo độ nhám bề mặt điện tử</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-do-do-am-vat-lieu.jpg" width="160" alt="Máy đo độ ẩm gỗ và vật liệu xây dựng (kim nén)"><br>
+      <sub>Máy đo độ ẩm gỗ và vật liệu xây dựng (kim nén)</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-can-muc-laser-3-tia.jpg" width="160" alt="Máy cân mực laser 3 tia xanh"><br>
+      <sub>Máy cân mực laser 3 tia xanh</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-do-luc-siet-mark-10.jpg" width="160" alt="Máy đo lực siết kỹ thuật số Mark-10 / Thiết bị đo mô-men xoắn MMT03-100"><br>
+      <sub>Máy đo lực siết kỹ thuật số Mark-10 / Thiết bị đo mô-men xoắn MMT03-100</sub>
+    </td>
   </tr>
 </table>
 
-### Thiết bị điện & tự động hóa (3)
+### Thiết bị điện & tự động hóa (5)
 
 <table>
   <tr>
@@ -113,6 +164,16 @@
     <td align="center" valign="top" width="25%">
       <img src="images/products/rs485-modbus-io-module.jpg" width="160" alt="Mạch điều khiển truyền thông RS485 / Bo mạch IO Modbus RTU"><br>
       <sub>Mạch điều khiển truyền thông RS485 / Bo mạch IO Modbus RTU</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/phich-cam-o-cam-cee.jpg" width="160" alt="Phích cắm và ổ cắm công nghiệp CEE"><br>
+      <sub>Phích cắm và ổ cắm công nghiệp CEE</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/cau-chi-nh2-100a.jpg" width="160" alt="Cầu chì công nghiệp hạ thế / Cầu chì dao NH2 100A 500V"><br>
+      <sub>Cầu chì công nghiệp hạ thế / Cầu chì dao NH2 100A 500V</sub>
     </td>
   </tr>
 </table>
@@ -140,7 +201,7 @@
   </tr>
 </table>
 
-### Vật tư công nghiệp (4)
+### Vật tư công nghiệp (5)
 
 <table>
   <tr>
@@ -159,6 +220,97 @@
     <td align="center" valign="top" width="25%">
       <img src="images/products/lifting-eye-bolt-m30.jpg" width="160" alt="Bu lông móc cẩu M30 mạ kẽm 3.6 tấn (DIN 580)"><br>
       <sub>Bu lông móc cẩu M30 mạ kẽm 3.6 tấn (DIN 580)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/bang-tan-ptfe.jpg" width="160" alt="Băng tan PTFE"><br>
+      <sub>Băng tan PTFE</sub>
+    </td>
+  </tr>
+</table>
+
+### Dụng cụ cầm tay (5)
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/kim-tuot-day-tu-dong.jpg" width="160" alt="Kìm tuốt dây điện tự động"><br>
+      <sub>Kìm tuốt dây điện tự động</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/kim-cat-goc-da-nang.jpg" width="160" alt="Kìm cắt góc đa năng / Kìm cắt phào nẹp góc"><br>
+      <sub>Kìm cắt góc đa năng / Kìm cắt phào nẹp góc</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/kim-cat-cap-bam-cos.jpg" width="160" alt="Kìm cắt cáp cộng lực / Kìm bấm cos thủy lực cầm tay"><br>
+      <sub>Kìm cắt cáp cộng lực / Kìm bấm cos thủy lực cầm tay</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/kim-bam-cuc-sat.jpg" width="160" alt="Kìm bấm cúc sắt / Kìm dập cúc 5 chấu"><br>
+      <sub>Kìm bấm cúc sắt / Kìm dập cúc 5 chấu</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/bo-tua-vit-cach-dien-1000v.jpg" width="160" alt="Bộ tua vít cách điện 1000V thợ điện (7 chi tiết, có bút thử điện)"><br>
+      <sub>Bộ tua vít cách điện 1000V thợ điện (7 chi tiết, có bút thử điện)</sub>
+    </td>
+  </tr>
+</table>
+
+### Máy khoan, máy cắt & máy hàn (7)
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/bo-may-khoan-pin-72v.jpg" width="160" alt="Bộ máy khoan pin cầm tay 72V"><br>
+      <sub>Bộ máy khoan pin cầm tay 72V</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-khoan-tu-fm-35a.jpg" width="160" alt="Máy khoan từ mini nằm ngang Tsyr Tzun FM-35A"><br>
+      <sub>Máy khoan từ mini nằm ngang Tsyr Tzun FM-35A</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-khoan-dong-luc-nikawa-nk-id38.jpg" width="160" alt="Máy khoan động lực NIKAWA NK-ID38"><br>
+      <sub>Máy khoan động lực NIKAWA NK-ID38</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/bo-may-khoan-pin-toyama.jpg" width="160" alt="Bộ máy khoan pin không dây TOYAMA (động cơ không chổi than)"><br>
+      <sub>Bộ máy khoan pin không dây TOYAMA (động cơ không chổi than)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-cat-sat-ban-355mm.jpg" width="160" alt="Máy cắt sắt bàn công nghiệp / Máy cắt kim loại đĩa đá 355mm"><br>
+      <sub>Máy cắt sắt bàn công nghiệp / Máy cắt kim loại đĩa đá 355mm</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-cat-gach-da-cam-tay.jpg" width="160" alt="Máy cắt gạch đá cầm tay / Máy cắt bê tông, gạch men DCA"><br>
+      <sub>Máy cắt gạch đá cầm tay / Máy cắt bê tông, gạch men DCA</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/may-han-que-arc-200.jpg" width="160" alt="Máy hàn que cầm tay Phi-an / Máy hàn điện tử mini ARC-200"><br>
+      <sub>Máy hàn que cầm tay Phi-an / Máy hàn điện tử mini ARC-200</sub>
+    </td>
+  </tr>
+</table>
+
+### Đèn chiếu sáng (3)
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/den-led-highbay-nha-xuong.jpg" width="160" alt="Đèn LED nhà xưởng / Đèn Highbay LED (100W - 250W)"><br>
+      <sub>Đèn LED nhà xưởng / Đèn Highbay LED (100W - 250W)</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/den-pha-led-ip66.jpg" width="160" alt="Đèn LED pha ngoài trời / Đèn pha LED cao áp IP66 (100W - 300W)"><br>
+      <sub>Đèn LED pha ngoài trời / Đèn pha LED cao áp IP66 (100W - 300W)</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="images/products/den-led-tich-dien-treo.jpg" width="160" alt="Đèn LED tích điện treo móc (đèn búp sạc)"><br>
+      <sub>Đèn LED tích điện treo móc (đèn búp sạc)</sub>
     </td>
   </tr>
 </table>
@@ -207,6 +359,28 @@ Mỗi bài viết có link riêng. Bấm nút **“Sao chép link”** trên web
       <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-an-toan-lao-dong-xay-dung.html"><img src="images/articles/xd-an-toan-lao-dong.jpg" alt="An toàn lao động – Yêu cầu cấp thiết trong hoạt động xây dựng"></a><br>
       <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-an-toan-lao-dong-xay-dung.html">An toàn lao động – Yêu cầu cấp thiết trong hoạt động xây dựng</a></b><br>
       <sub>Thực hiện: Thu Hà, Thùy Linh, Mai Thảo</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-hoa-dong-dong-hanh-an-toan-lao-dong.html"><img src="images/articles/hd-bo-thiet-bi-bao-ho.jpg" alt="Hóa Đông – Đồng hành cùng doanh nghiệp trong hành trình nâng cao an toàn lao động"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-hoa-dong-dong-hanh-an-toan-lao-dong.html">Hóa Đông – Đồng hành cùng doanh nghiệp trong hành trình nâng cao an toàn lao động</a></b><br>
+      <sub>Thực hiện: Thùy Linh, Mai Thảo</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-do-ap-suat-cong-nghiep.html"><img src="images/articles/ap-suat-dong-ho-duong-ong.jpg" alt="Thiết bị đo áp suất công nghiệp – Yếu tố quan trọng trong kiểm soát vận hành nhà máy"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-thiet-bi-do-ap-suat-cong-nghiep.html">Thiết bị đo áp suất công nghiệp – Yếu tố quan trọng trong kiểm soát vận hành nhà máy</a></b><br>
+      <sub>Thực hiện: Thu Hà</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-xu-ly-khi-nguon-dien-bi-chap.html"><img src="images/articles/chap-dien-tu-dien.jpg" alt="Cách xử lý khi nguồn điện bị chập: Những điều người lao động cần biết"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-xu-ly-khi-nguon-dien-bi-chap.html">Cách xử lý khi nguồn điện bị chập: Những điều người lao động cần biết</a></b><br>
+      <sub>Thực hiện: Thu Hà</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-quy-trinh-kiem-tra-an-toan-dau-ca.html"><img src="images/articles/kiem-tra-dau-ca.jpg" alt="Quy trình kiểm tra an toàn trước mỗi ca làm việc trong nhà máy, xưởng sản xuất"></a><br>
+      <b><a href="https://cty-tthhtm-hoa-dong.github.io/GioiThieuCty/bai-viet-quy-trinh-kiem-tra-an-toan-dau-ca.html">Quy trình kiểm tra an toàn trước mỗi ca làm việc trong nhà máy, xưởng sản xuất</a></b><br>
+      <sub>Thực hiện: Thu Hà</sub>
     </td>
   </tr>
 </table>

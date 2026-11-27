@@ -1,4 +1,9 @@
-﻿[
+[
+    {
+        "id": "safety-equipment",
+        "name": "Thiết bị bảo hộ lao động",
+        "description": "Mũ, áo phản quang, găng tay và bộ trang bị bảo hộ cá nhân."
+    },
     {
         "id": "measuring-tools",
         "name": "Dụng cụ đo & kiểm tra",
@@ -18,5 +23,20 @@
         "id": "industrial-supplies",
         "name": "Vật tư công nghiệp",
         "description": "Băng keo, chổi sơn, móc cẩu, đèn pin và vật tư phụ trợ."
+    },
+    {
+        "id": "hand-tools",
+        "name": "Dụng cụ cầm tay",
+        "description": "Kìm, tua vít cách điện và dụng cụ thao tác cầm tay."
+    },
+    {
+        "id": "power-tools",
+        "name": "Máy khoan, máy cắt & máy hàn",
+        "description": "Máy khoan pin, khoan từ, khoan động lực, máy cắt và máy hàn."
+    },
+    {
+        "id": "lighting",
+        "name": "Đèn chiếu sáng",
+        "description": "Đèn LED nhà xưởng, đèn pha và đèn tích điện."
     }
 ]
